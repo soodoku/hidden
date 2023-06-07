@@ -1,0 +1,45 @@
+seq,var,short,topic,type,dates
+1,cbb04r,R. candidate who opposed some Bush tax cuts,Tax,multiple,"1/14/08 Ð 1/27/08, 1/30/08 Ð 2/6/08 "
+2,cbb05r,R. candidate who opposed some Bush tax cuts,Tax,single,2/7/08 Ð 3/4/08 
+3,cbb06r,D. candidate eliminate some Bush tax cuts,Tax,multiple,1/14/08 Ð 1/29/08 
+4,cbb07r,D. candidate eliminate some Bush tax cuts,Tax,single,1/30/08 Ð 5/22/08 
+5,cbb08r,Candidate eliminate Bush tax cuts,Tax,single,5/23/08 Ð 11/3/08 
+6,cbb09r,Dem. Candidate - favor tax cuts for working families and seniors,Tax,single,2/26/08 Ð 5/22/08 
+7,cbb10r,Candidate - favor tax cuts for working families and seniors,Tax,single,5/23/08 Ð 9/2/08 
+8,cbb11r,Candidate - more middle class tax cuts,Tax,single,9/2/08 Ð 11/3/08 
+9,cbb12r,Candidate check to people who don't pay taxes,Tax,single,"10/15/08, 10/20/08 Ð 11/3/08 "
+10,cbb13r,Candidate favors eliminating estate tax,Tax,single,5/23/08 Ð 8/30/08 
+11,cbb14r,R candidate favor abolishing IRS,Tax,multiple,1/14/08 Ð 1/24/08 
+12,cbb15r,R candidate favor abolishing IRS,Tax,multiple,1/31/08 Ð 2/6/08 
+13,cbb16r,R candidate favor abolishing IRS,Tax,single,2/7/08 Ð 3/4/08 
+14,cbd05r,Candidate freeze home foreclosures and mortgage rates,Housing,single,2/5/08 Ð 5/22/08 
+15,cca04r,Candidate everyone mandated to have insurance,Health Insurance,single,"1/14/08 Ð 1/24/08, 1/30/08 Ð 5/22/08 "
+16,cca05r,Candidate whose health plan mandates children health insurance,Health Insurance,single,5/23/08 Ð 11/3/08 
+17,cca06r,Candidate provide family money to buy health insurance,Health Insurance,single,4/30/08 Ð 5/18/08 
+18,cca07r,Candidate provide family money to buy health insurance,Health Insurance,single,5/19/08 Ð 5/22/08 
+19,cca08r,Candidate provide family money to buy health insurance,Health Insurance,single,"5/23/08 Ð 9/23/08, 10/2/08 Ð 10/5/08 "
+20,cca09r,Candidate provide family money to buy health insurance,Health Insurance,single,10/6/08 Ð 11/3/08 
+21,cca10r,Candidate proposes taxing employer benefits,Health Insurance,single,10/6/08 Ð 11/3/08 
+22,ccc02r,Candidate favor school vouchers,Education,single,9/11/08 Ð 9/17/08 
+23,cdb07r,D candidate who opposed Iraq War,Iraq,multiple,1/14/08 Ð 1/29/08 
+24,cdb08r,D candidate who opposed Iraq War,Iraq,single,1/30/08 Ð 5/22/08 
+25,cdb09r,Candidate who opposed Iraq War,Iraq,single,5/23/08 Ð 11/3/08 
+26,cdb11r,R Candidate who first advocated Iraq Surge,Iraq,multiple,1/14/08 Ð 2/6/08 
+27,cdb12r,R Candidate who first advocated Iraq Surge,Iraq,single,2/7/08 Ð 3/4/08 
+28,cdb13r,Candidate who first advocated Iraq Surge,Iraq,single,5/23/08 Ð 8/30/08 
+29,cdb14r,Candidate who first advocated Iraq Surge,Iraq,single,9/2/08 Ð 11/3/08 
+30,cdc03r,Candidate favor closing Guantanamo,Homeland Security,single,5/23/08 Ð 11/3/08 
+31,cdd06r,Rep. Candidate(s) Immigration Plan,Immigration,single,1/30/08 Ð 2/5/08 
+32,cdd07r,Rep. Candidate(s) Immigration Plan,Immigration,multiple,2/6/08
+33,cdd08r,Rep. Candidate(s) Immigration Plan,Immigration,single,2/7/08 Ð 3/4/08 
+34,cdd10r,Dem. Candidate(s) favor driver license for illegals,Immigration,single,2/4/08 Ð 5/22/08 
+35,cdd11r,Dem. Candidate(s) favor driver license for illegals,Immigration,single,5/23/08 Ð 9/3/08 
+36,cea03r,Candidate(s) favor overturning Roe V. Wade,Moral Issues,single,5/23/08 Ð 11/3/08 
+37,ceb02r,Candidate(s) support federal stem cell funding,Moral Issues,single,10/3/08 Ð 11/3/08 
+38,ced01r,Rep. Candidate(s) amendment to ban same sex-marriage and abortion,Moral Issues,multiple,1/22/08 Ð 1/29/08 
+39,ced02r,Rep. Candidate(s) amendment to ban same sex-marriage and abortion,Moral Issues,single,2/11/08 Ð 3/4/08 
+40,cfa06r,McCain: Suspend Gas Tax over summer,Energy,single,4/28/08 Ð 8/26/08 
+41,cfa07r,Clinton: Suspend Gas Tax over summer,Energy,single,4/28/08 Ð 6/8/08 
+42,cfa08r,Obama: Suspend Gas Tax over summer,Energy,single,4/28/08 Ð 8/26/08 
+43,cfa11r,Candidate(s) favor lifting ban on oil drilling,Energy,single,6/24/08 Ð 9/23/08 
+44,cfb02r,Candidate(s) favor cap and trade,Energy,single,5/23/08 Ð 9/22/08 
