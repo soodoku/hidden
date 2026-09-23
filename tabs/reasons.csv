@@ -1,0 +1,37 @@
+item,outcome,reason,n,share,responses
+aca_providers,correct,Asked someone,0,0,94
+aca_providers,correct,Felt good to think it,2,0.02127659574468085,94
+aca_providers,correct,Guessed,13,0.13829787234042554,94
+aca_providers,correct,Inferred it,35,0.3723404255319149,94
+aca_providers,correct,Looked it up,0,0,94
+aca_providers,correct,"Read, saw, or heard it",44,0.46808510638297873,94
+aca_providers,incorrect,Asked someone,0,0,96
+aca_providers,incorrect,Felt good to think it,2,0.020833333333333332,96
+aca_providers,incorrect,Guessed,20,0.20833333333333334,96
+aca_providers,incorrect,Inferred it,28,0.2916666666666667,96
+aca_providers,incorrect,Looked it up,0,0,96
+aca_providers,incorrect,"Read, saw, or heard it",46,0.4791666666666667,96
+bush_deficit,correct,Asked someone,0,0,508
+bush_deficit,correct,Felt good to think it,2,0.003937007874015748,508
+bush_deficit,correct,Guessed,26,0.051181102362204724,508
+bush_deficit,correct,Inferred it,99,0.19488188976377951,508
+bush_deficit,correct,Looked it up,8,0.015748031496062992,508
+bush_deficit,correct,"Read, saw, or heard it",373,0.734251968503937,508
+bush_deficit,incorrect,Asked someone,2,0.030303030303030304,66
+bush_deficit,incorrect,Felt good to think it,4,0.06060606060606061,66
+bush_deficit,incorrect,Guessed,19,0.2878787878787879,66
+bush_deficit,incorrect,Inferred it,15,0.22727272727272727,66
+bush_deficit,incorrect,Looked it up,5,0.07575757575757576,66
+bush_deficit,incorrect,"Read, saw, or heard it",21,0.3181818181818182,66
+travel_ban,correct,Asked someone,0,0,284
+travel_ban,correct,Felt good to think it,1,0.0035211267605633804,284
+travel_ban,correct,Guessed,4,0.014084507042253521,284
+travel_ban,correct,Inferred it,18,0.06338028169014084,284
+travel_ban,correct,Looked it up,2,0.007042253521126761,284
+travel_ban,correct,"Read, saw, or heard it",259,0.9119718309859155,284
+travel_ban,incorrect,Asked someone,0,0,77
+travel_ban,incorrect,Felt good to think it,2,0.025974025974025976,77
+travel_ban,incorrect,Guessed,7,0.09090909090909091,77
+travel_ban,incorrect,Inferred it,18,0.23376623376623376,77
+travel_ban,incorrect,Looked it up,2,0.025974025974025976,77
+travel_ban,incorrect,"Read, saw, or heard it",48,0.6233766233766234,77

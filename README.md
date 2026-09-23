@@ -1,17 +1,46 @@
-### Mis-measuring Political Knowledge? Do People Know More—or Even Less—about Politics than Commonly Thought?
+## Mis-measuring Political Knowledge? Do People Know More—or Even Less—about Politics than Commonly Thought?
 
-It has long been widely accepted that the public knows very little about politics, but, over the past couple of decades, a number of prominent revisionist studies have claimed that it actually knows appreciably more than we have been thinking. The reasons lie in a mix of respondent behavior, the selection and design of knowledge questions, and the coding of the responses to open-ended ones. In a nutshell, incorrect and Don’t-Know responses may conceal knowledge; the questions may be too difficult, missing too much of what people do know; and the coding may count partially correct responses as incorrect. But while there may be some truth to such claims, this accounting neglects the other side of the ledger. Correct responses may reflect lucky guessing, shrewd inference, or mere belief (suspicion as distinct from knowledge), the questions may be too easy, missing too much of what people don’t know; and the respondents may be more knowledgeable than the citizenry from which they have been drawn. Here we provide a more comprehensive view.
+Robert C. Luskin, Gaurav Sood, and Daniel Weitzel
 
-### Data
+Revisionist studies argue that surveys understate what the public knows about
+politics: don't-know answers hide knowledge, open-ended coding misses partial
+knowledge, and text questions miss what people recognize by sight. The paper
+weighs those claims against the biases that run the other way (guessing,
+inference, looking answers up, easy items, knowledgeable samples). It uses
+randomized experiments in three online surveys and a recount of ANES and NAES
+items and don't-know probes. Hidden knowledge turns out to be scarce:
 
-* [Data](data/)
+- asking people to identify officials from photos lowers correct answers;
+- menus and probes add little beyond what guessing produces;
+- asking how sure people are finds much less knowledge than multiple choice.
 
-### Scripts
-* [Scripts](scripts/)
+<p align="center">
+  <img width="80%" src="figs/cue.png">
+</p>
 
-### Manuscript
+### Repository
 
-* [MS](ms/)
+| Path | Contents |
+|---|---|
+| `data/raw/` | Survey files and public-poll extracts; see [data/README.md](data/README.md) |
+| `docs/open_codes.csv` | The rules that code every open-ended answer (correct, partial, incorrect, don't know) |
+| `docs/item_decisions.csv` | Items dropped or not scored, and why |
+| `docs/knowledge_items.csv`, `docs/knowledge_items_rules.md` | ANES 2012 and 2016 knowledge items and how their design features are coded |
+| `docs/probe_items.csv` | ANES and NAES probe items: wording, fielding dates, answer keys and sources |
+| `docs/naes_probe.csv` | Item-level NAES summaries (the NAES microdata may not be redistributed) |
+| `docs/citations.csv` | How each cited work was checked |
+| `R/` | Reading and checking data (`sources.R`), open-ended coding (`coding.R`), estimates (`analysis.R`), ANES/NAES probes (`probes.R`), ANES item corpus (`corpus.R`), labels, figure style, table output |
+| `scripts/` | `run_all.R` writes `tabs/*.csv`; `figures.R` writes `figs/`; `tables.R` writes LaTeX tables and number macros; `extract_public_polls.R` rebuilds the ANES/NAES extracts from the original files |
+| `tabs/open_answers.csv` | Every distinct open-ended answer with its code, for review |
+| `ms/` | `main.tex`, `references.bib`, and the compiled `main.pdf` |
+| `tests/testthat/` | Coding-rule unit tests, reproductions of earlier numbers where the codings should agree, and privacy checks |
 
-### Authors
-Robert Luskin, Gaurav Sood, and Daniel Weitzel
+### Running it
+
+```
+make restore   # install the package versions in renv.lock
+make check     # analysis, figures, tables, manuscript, lint, tests
+```
+
+The manuscript needs XeLaTeX and latexmk. Every number in the text comes from
+`tabs/macros.tex`, which `scripts/tables.R` writes from the analysis output.

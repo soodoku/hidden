@@ -1,0 +1,37 @@
+Package: hidden
+Type: Project
+Title: Mis-measuring Political Knowledge
+Version: 0.0.1
+Authors@R: c(
+    person("Robert C.", "Luskin", role = "aut"),
+    person("Gaurav", "Sood", role = c("aut", "cre"), email = "gsood07@gmail.com"),
+    person("Daniel", "Weitzel", role = "aut"))
+Description: Data, analyses, and manuscript for a paper weighing the upward
+    and downward biases in survey measures of political knowledge, with
+    randomized experiments in three online surveys and a recount of ANES and
+    NAES knowledge items and don't-know probes.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Imports:
+    assertr,
+    digest,
+    dplyr,
+    forcats,
+    ggplot2,
+    lubridate,
+    purrr,
+    readr,
+    rlang,
+    sandwich,
+    scales,
+    stringr,
+    tibble,
+    tidyr
+Suggests:
+    haven,
+    lintr,
+    renv,
+    styler,
+    testthat,
+    withr
+Config/testthat/edition: 3

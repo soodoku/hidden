@@ -1,0 +1,45 @@
+key,draft_citation,status,source,note
+dellicarpini1996,Delli Carpini and Keeter 1996,verified_other,isbn:9780300062564,Reused verbatim from waters-of-casablanca; no DOI for the Yale edition
+dellicarpini1993,Delli Carpini and Keeter 1993,verified_doi,10.2307/2111549,Not in draft ref list. Crossref (JSTOR) gives first page only; last page 1206 from author-hosted PDF and search
+luskin1987,Luskin 1987,verified_doi,10.2307/2111227,Crossref gives first page only; 856-899 matches draft ref list
+kinder1998,Kinder 1998,verified_other,Handbook of Social Psychology 4th ed. vol. 2 (McGraw-Hill),Not in draft ref list. No DOI; chapter details from secondary citations (Semantic Scholar and published reference lists)
+price1999,Price 1999,verified_other,Measures of Political Attitudes (Academic Press),Not in draft ref list. No DOI found in Crossref; chapter pages from secondary citations
+jerit2012,Jerit and Barabas (2012),verified_doi,10.1017/s0022381612000187,"Not in draft ref list. The '2014' in 'Jerit and Barabas (2012, 2014)' has no Jerit and Barabas match; it is read as Barabas, Jerit, Pollock and Rainey 2014 (see barabas2014)"
+barabas2014,Barabas et al. (2014); Jerit and Barabas (2014),corrected,10.1017/s0003055414000392,"'Jerit and Barabas (2014)' corrected to Barabas, Jerit, Pollock and Rainey 2014: no Jerit-first 2014 article on knowledge items found in Crossref; the 2014 APSR compiles 300+ items and is the draft's own 2014 item-compilation cite. main.tex currently cites only jerit2012 in that sentence"
+luskin2002,Luskin 2002,verified_doi,10.1017/cbo9780511510632.010,Draft ref list page '284' is a stray; chapter is pp. 281-305 in Kuklinski (ed.). Not the waters-of-casablanca luskin2002 (Luskin Fishkin Jowell)
+lupia1994,Lupia 1994,verified_doi,10.2307/2944882,
+popkin1991,Popkin 1991,verified_doi,10.7208/chicago/9780226772875.001.0001,Chicago Scholarship Online record dated 1991
+mondak2001,Mondak 2001; Mondak xxxx,corrected,10.2307/2669369,"Placeholder 'Mondak xxxx' (ennui) resolved to Mondak 2001: the draft's own earlier sentence on the timid and apathetic cites 'Mondak 2001, Prior and Lupia 2008' for the same claim. Mondak and Davis 2001 (Political Behavior 23(3), 10.1023/a:1015015227594) is a plausible alternative but its abstract argues understatement from DK encouragement, not boredom; not added. Draft ref list and Crossref spell 'Jeffrey'; entry uses 'Jeffery', the author's own spelling, to match the reused mondak1999"
+mondak1999,Mondak 2000,corrected,10.1093/oxfordjournals.pan.a029805,Reused verbatim. Draft year 2000 corrected to 1999 (Political Analysis 8(1)); main.tex key mondak2000 must become mondak1999
+prior2008,Prior and Lupia 2008,verified_doi,10.1111/j.1540-5907.2007.00306.x,
+gibson2009,Gibson and Caldeira 2009,verified_doi,10.1017/s0022381609090379,Reused verbatim; also requested as an addition
+debell2013,Debell 2013,verified_doi,10.1093/pan/mpt010,Reused verbatim. Not in draft ref list; surname is DeBell
+prior2014,Prior 2013,corrected,10.1017/s0022381613001096,Draft year 2013 (online date) corrected to 2014 (JOP 76(1)); ref list already says 2014
+lupia2016,Lupia 2015; Lupia (2017),corrected,10.1093/oso/9780190263720.001.0001,"Both 'Lupia 2015' and 'Lupia (2017)' point to Uninformed (Oxford, 2016); no Lupia journal article in 2015 or 2017 on unimportant or unknowable items found in Crossref. Exact title has 'Seem to Know'"
+lupia2006,Lupia 2006,verified_doi,10.1080/08913810608443658,Not in draft ref list
+boudreau2011,Boudreau and Lupia 2011,verified_doi,10.1017/cbo9780511921452.012,Not in draft ref list
+luskin2011,Luskin and Bullock 2011; Luskin and Bullock (2010),corrected,10.1017/s0022381611000132,Reused verbatim. The single 'Luskin and Bullock (2010)' corrected to 2011
+bullock2015,Bullock et al. 2015,verified_doi,10.1561/100.00014074,Reused verbatim. Not in draft ref list
+prior2015,"Prior, Sood, and Khanna 2015",verified_doi,10.1561/100.00014127,Reused verbatim
+cor2016,Sood and Cor 2016,corrected,10.1093/pan/mpw010,Reused verbatim. Author order corrected: Cor and Sood
+clifford2016,Clifford and Jerit 2016,verified_doi,10.1093/poq/nfw030,Also requested as an addition
+krupnikov2014,Krupnikov and Levine 2014,verified_doi,10.1017/xps.2014.7,Not in draft ref list
+sosa1991,Sosa 1991,verified_doi,10.1017/cbo9780511625299,Not in draft ref list
+luskin2018,(main.tex only),verified_other,https://www.gsood.com/research/papers/misinformation_misinformation.pdf,Reused verbatim from waters-of-casablanca at coordinator's request; not cited in ms.txt
+luskin2026,"Luskin, Helfer, and Sood 2016",corrected,https://www.gsood.com/research/papers/k_gains.pdf,"Later version exists: working draft of Sept 2026 (repo github.com/finite-sample/measuring-learning), which keeps the cited definitions of true vs observed knowledge as a proportion of all knowable items. Earlier versions: SPM 2011, ECPR Salamanca 2014 (the draft ref list), MPSA 2016 (Helfer CV; the source of the draft's 2016). Author order Luskin, Helfer, Sood per current manuscript (ref list has Luskin, Sood, Helfer). Key changed from luskin2016"
+webb1966,Webb et al. 1966,verified_other,Rand McNally 1966 (publisher per contemporary reviews indexed in Crossref: 10.2307/2574409),Not in draft ref list; no DOI for the book
+brown1966,Roger and McNeill 1966,corrected,10.1016/s0022-5371(66)80040-3,In-text 'Roger and McNeill' corrected to Brown and McNeill (Roger is Brown's first name); ref list already correct
+vezzoni2017,Vezzoni and Ladini 2016,corrected,10.1017/ipo.2016.25,Online Dec 2016; issue is Italian Political Science Review 47(3) Nov 2017. Year and key changed from vezzoni2016 (same rule as mullinix2015 in waters-of-casablanca)
+sturgis2008,"Sturgis, Allum, and Smith 2007; 2008",corrected,10.1093/poq/nfm032,Reused verbatim. Draft 2007 corrected to 2008 (POQ 72(1)); the page-97 cite is in range
+grimes1991,Grimes 1991,verified_doi,10.1111/j.1468-2958.1991.tb00546.x,Not in draft ref list
+lang1995,Lang 1995,verified_doi,10.1177/009365095022001004,Not in draft ref list
+lang1999,"Lang, Potter, and Bolls 1999",verified_doi,10.1207/s1532785xmep0102_4,Not in draft ref list
+munzert2017,(added: coordinator),verified_doi,10.1177/0894439315616325,"Subtitle confirmed in Crossref: 'An Experimental Validation of Visual Versus Verbal Instruments'. Online Aug 2016, SSCR 35(2) Apr 2017"
+krosnick2008,(added),verified_other,https://web.archive.org/web/20170318162949/http://www.electionstudies.org/announce/newsltr/20080324PoliticalKnowledgeMemo.pdf,Reused verbatim; archived URL returns 200
+lau1997,Lau and Redlawsk 1997,verified_doi,10.2307/2952076,Not in draft ref list
+gomez2001,Gomez and Wilson 2001,verified_doi,10.2307/2669331,Not in draft ref list. Crossref gives first page only; 899-914 from secondary citations
+flaxman2016,"Flaxman, Goel and Rao (2016)",verified_doi,10.1093/poq/nfw006,
+hillygus2014,"Hillygus, Jackson, and Young 2014",verified_doi,10.1002/9781118763520.ch10,Editors from Crossref book record
+ahler2017,Ahler and Goggin (2017),verified_other,http://www.sgoggin.org/papers/AhlerGoggin.KnowledgePaper.pdf,Not in draft ref list. Title and date read from the PDF (May 2 2017); no published version found
+ravishankara2009,(added),verified_doi,10.1126/science.1176985,
+omb2026,(added),verified_other,https://www.whitehouse.gov/omb/information-resources/budget/historical-tables/,"Page (fetched 2026-09-23) serves the FY 2027 Budget tables (hist01z1_fy2027.xlsx); Table 1.1 title copied from the page. Key changed from omb2024 because the edition at the URL is 2026"

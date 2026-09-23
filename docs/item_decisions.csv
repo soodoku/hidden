@@ -1,0 +1,7 @@
+study,item,decision,reason
+alumni and staff 2010,Obama deficit (between 2009 and 2010),dropped,"Keyed Increased, but the deficit fell from $1.41 trillion in fiscal 2009 to $1.29 trillion in fiscal 2010 (OMB Historical Tables, Table 1.1)."
+mturk 2017,Obama deficit (during the time Obama was president),dropped,"Keyed Increased, but the deficit fell from $1.41 trillion in fiscal 2009 to $0.58 trillion in fiscal 2016; whether it rose depends on the baseline year."
+mturk 2017,Greenhouse gases are ... (rising sea levels),dropped,"Two distractors are also true of some greenhouse gases: nitrous oxide and CFCs deplete stratospheric ozone, and ground-level ozone causes respiratory problems."
+mturk 2017,Greenhouse gases are ... (reduced by trees),dropped,"The authors dropped it before analysis: a last-minute edit left two correct options."
+alumni and staff 2010,Arizona immigration law,not used,"Not part of any comparison in the paper; the vehicle-impoundment distractor is also true of SB 1070."
+mturk 2017,Open-ended reasons (open-probe arm),not used,"Free-text reasons are not coded; the reasons table uses the closed-probe arm only."
