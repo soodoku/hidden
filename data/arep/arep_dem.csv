@@ -1,0 +1,648 @@
+rid,st.date,cmp.date,lang,useless,useless,useless,arep.id,useless,year,gender,ethnic,ethnic2,born.in.us,us.citizen,years.in.us,born.ctry,born.city,born.us.city,born.us.state,zip,party,libcon,occ,occ2,manager,psych.course,soc.study,major,educ,arep.prev
+88822,2010.02.18,2010.02.18,en,,,,FY958357,,1945,Male,American Indian Native American,,No,Yes,2,,,,,,Independent,Neither liberal nor conservative,,,Yes,Yes,Yes,,Masters degree (MA or MS),No
+88823,2010.02.18,2010.02.18,en,,,,FY916757,,2000,Male,Asian or Pacific Islander,,No,No,10,,,,,,Other,Very liberal,,,No,No,Yes,,Four year college degree (BA or BS),No
+88828,2010.02.18,2010.02.18,en,,,,FY982538,,1958,Female,White Caucasian,,Yes,,,,,,Pennsylvania,,Democrat,Slightly conservative,,,Yes,Yes,No,,PhD MD MBA Law degree,No
+88829,2010.02.18,2010.02.18,en,,,,FY992215,,1972,Female,Asian or Pacific Islander,,No,Yes,34,,,,,,Democrat,Very liberal,,,No,No,Yes,,Masters degree (MA or MS),No
+88830,2010.02.18,2010.02.18,en,,,,FY959528,,1957,Female,White Caucasian,,Yes,,,,,,Rhode Island,,Democrat,Somewhat liberal,,,Yes,Yes,No,,PhD MD MBA Law degree,No
+88831,2010.02.18,2010.02.18,en,,,,FY963040,,1972,Female,Asian or Pacific Islander,,No,Yes,26,,,,,,Democrat,Very liberal,,,Yes,Yes,No,,Four year college degree (BA or BS),Yes
+88832,2010.02.18,2010.02.18,en,,,,FY973419,,1975,Male,Latino or Hispanic,,No,No,2,,,,,"",Independent,Slightly liberal,,,Yes,No,No,,PhD MD MBA Law degree,No
+88833,2010.02.18,2010.02.18,en,,,,FY917117,,1986,Female,White Caucasian,,No,Yes,18,,,,,,Democrat,Somewhat liberal,,,No,Yes,Yes,,Four year college degree (BA or BS),No
+88834,2010.02.18,2010.02.18,en,,,,FY946593,,1968,Male,White Caucasian,,No,No,17,,,,,,Independent,Somewhat liberal,,,Yes,No,No,,Masters degree (MA or MS),Yes
+88835,2010.02.18,2010.02.18,en,,,,FY999775,,1966,Female,#NAME?,,Yes,,,,,,California,,Democrat,Somewhat liberal,,,No,No,No,,Masters degree (MA or MS),No
+88836,2010.02.18,2010.02.18,en,,,,FY959928,,1983,Female,#NAME?,,Yes,,,,,,Colorado,,Democrat,Somewhat liberal,,,No,No,Yes,,Masters degree (MA or MS),No
+88837,2010.02.18,2010.02.18,en,,,,FY988153,,1959,Male,Asian or Pacific Islander,,Yes,,,,,,Michigan,,Democrat,Somewhat liberal,,,No,Yes,No,,Four year college degree (BA or BS),No
+88838,2010.02.18,2010.02.18,en,,,,FY932078,,1983,Female,Black or African American,,Yes,,,,,,California,,Other,Very liberal,,,Yes,Yes,Yes,,PhD MD MBA Law degree,No
+88839,2010.02.18,2010.02.18,en,,,,FY930562,,1955,Female,White Caucasian,,Yes,,,,,,California,,Democrat,Somewhat liberal,,,Yes,Yes,No,,Four year college degree (BA or BS),No
+88840,2010.02.18,2010.02.18,en,,,,FY916874,,1974,Male,White Caucasian,,Yes,,,,,,California,,Democrat,Slightly liberal,,,No,No,Yes,,Masters degree (MA or MS),No
+88841,2010.02.18,2010.02.18,en,,,,FY988481,,1971,Male,Black or African American,,Yes,,,,,,Georgia,,Independent,Slightly liberal,,,Yes,No,No,,PhD MD MBA Law degree,No
+88842,2010.02.18,2010.02.18,en,,,,FY935576,,1972,Female,Asian or Pacific Islander,,Yes,,,,,,Ohio,,Democrat,Slightly liberal,,,No,Yes,Yes,"",PhD MD MBA Law degree,Yes
+88843,2010.02.18,2010.02.18,en,,,,FY994406,,1955,Male,White Caucasian,,Yes,,,,,,Wisconsin,,Republican,Slightly conservative,,,Yes,Yes,Yes,,PhD MD MBA Law degree,No
+88844,2010.02.18,,en,,,,FY912288,,,,,,,,,,,,,,,,,,,,,,,
+88845,2010.02.18,2010.02.18,en,,,,FY940745,,1977,Female,White Caucasian,,Yes,,,,,,Colorado,,Republican,Slightly conservative,,,Yes,Yes,No,,PhD MD MBA Law degree,No
+88846,2010.02.18,2010.02.18,en,,,,FY945695,,1977,Female,Asian or Pacific Islander,,No,Yes,32,,,,,,Democrat,Slightly liberal,,,No,No,No,,PhD MD MBA Law degree,No
+88847,2010.02.18,2010.02.18,en,,,,FY912288,,1982,Female,White Caucasian,,Yes,,,,,,California,,Democrat,Somewhat liberal,,,No,Yes,Yes,,Masters degree (MA or MS),No
+88848,2010.02.18,2010.02.18,en,,,,FY906026,,1974,Female,#NAME?,,No,Yes,35,,,,,,Democrat,Very liberal,,,No,Yes,Yes,,PhD MD MBA Law degree,Yes
+88849,2010.02.18,2010.02.18,en,,,,FY903043,,1960,Female,Unknown,,Yes,,,,,,New York,,Democrat,Somewhat liberal,,,Yes,Yes,No,,Four year college degree (BA or BS),No
+88851,2010.02.18,2010.02.18,en,,,,FY931041,,1945,Female,White Caucasian,,Yes,,,,,,Idaho,,Democrat,Slightly liberal,,,Yes,Yes,Yes,,Four year college degree (BA or BS),Yes
+88852,2010.02.18,2010.02.18,en,,,,FY956139,,1953,Male,White Caucasian,,Yes,,,,,,Ohio,,Independent,Neither liberal nor conservative,,,Yes,Yes,Yes,,Masters degree (MA or MS),Yes
+88853,2010.02.18,2010.02.18,en,,,,FY969725,,1956,Female,Asian or Pacific Islander,,Yes,,,,,,Massachusetts,,Democrat,Slightly liberal,,,Yes,Yes,Yes,,Masters degree (MA or MS),No
+88854,2010.02.18,2010.02.18,en,,,,FY904267,,1980,Female,White Caucasian,,Yes,,,,,,California,,Other,Somewhat conservative,,,Yes,Yes,Yes,,Masters degree (MA or MS),No
+88855,2010.02.18,2010.02.18,en,,,,FY981926,,1966,Male,Latino or Hispanic,,No,No,3,,,,,,Republican,Somewhat conservative,,,Yes,No,No,,Masters degree (MA or MS),No
+88856,2010.02.18,2010.02.18,en,,,,FY972321,,1946,Male,#NAME?,,No,Yes,8,,,,,,Independent,Neither liberal nor conservative,,,Yes,Yes,No,,PhD MD MBA Law degree,No
+88857,2010.02.18,2010.02.18,en,,,,FY984691,,1955,Female,White Caucasian,,Yes,,,,,,Minnesota,,Democrat,Somewhat liberal,,,Yes,No,Yes,,Masters degree (MA or MS),Yes
+88858,2010.02.18,2010.02.18,en,,,,FY993928,,1975,Male,Latino or Hispanic,,No,No,1,,,,,,Other,Slightly conservative,,,Yes,No,No,,PhD MD MBA Law degree,No
+88859,2010.02.18,2010.02.18,en,,,,FY988813,,1927,Male,White Caucasian,,Yes,,,,,,New York,,Democrat,Somewhat liberal,,,Yes,No,No,,Masters degree (MA or MS),Yes
+88860,2010.02.18,2010.02.18,en,,,,FY958244,,1960,Female,Black or African American,,Yes,,,,,,Ohio,,Other,Neither liberal nor conservative,,,Yes,Yes,No,,Masters degree (MA or MS),No
+88862,2010.02.18,2010.02.18,en,,,,FY954856,,1967,Female,White Caucasian,,Yes,,,,,,Michigan,,Democrat,Somewhat liberal,,,Yes,Yes,Yes,,PhD MD MBA Law degree,No
+88863,2010.02.18,2010.02.18,en,,,,FY951845,,1966,Male,#NAME?,"",Yes,,,,,,California,,Independent,Somewhat liberal,,,Yes,No,No,,Masters degree (MA or MS),No
+88864,2010.02.18,2010.02.18,en,,,,FY991527,,1980,Male,Black or African American,,Yes,,,,,,New York,,Democrat,Somewhat liberal,,,Yes,Yes,Yes,,Masters degree (MA or MS),No
+88865,2010.02.18,2010.02.18,en,,,,FY954190,,1940,Female,White Caucasian,,Yes,,,,,,California,,Democrat,Somewhat liberal,,,Yes,No,Yes,,Four year college degree (BA or BS),No
+88866,2010.02.18,2010.02.18,en,,,,,,1940,Male,White Caucasian,,Yes,,,,,,Washington,,Republican,Somewhat conservative,,,Yes,Yes,No,,Four year college degree (BA or BS),Yes
+88867,2010.02.18,2010.02.18,en,,,,FY955778,,1974,Male,White Caucasian,,Yes,,,,,,Oklahoma,,Independent,Neither liberal nor conservative,,,Yes,No,No,,PhD MD MBA Law degree,No
+88868,2010.02.18,2010.02.18,en,,,,FY940890,,1941,Female,White Caucasian,,Yes,,,,,,Ohio,,Independent,Somewhat liberal,,,Yes,Yes,No,,Four year college degree (BA or BS),No
+88869,2010.02.18,2010.02.18,en,,,,FY972819,,1957,Male,White Caucasian,,Yes,,,,,,California,,Republican,Slightly conservative,,,Yes,No,No,,PhD MD MBA Law degree,No
+88870,2010.02.18,2010.02.18,en,,,,FY967920,,1931,Female,White Caucasian,,Yes,,,,,,New York,,Democrat,Very liberal,,,No,Yes,No,,Masters degree (MA or MS),No
+88871,2010.02.18,2010.02.18,en,,,,FY997316,,1947,Female,White Caucasian,,Yes,,,,,,California,,Democrat,Somewhat liberal,,,Yes,No,Yes,,Four year college degree (BA or BS),Yes
+88872,2010.02.18,2010.02.18,en,,,,FY988320,,1958,Male,White Caucasian,,Yes,,,,,,California,,Independent,Slightly conservative,,,Yes,Yes,Yes,,Masters degree (MA or MS),Yes
+88873,2010.02.18,2010.02.18,en,,,,FY941254,,1969,Female,White Caucasian,,Yes,,,,,,New York,,Democrat,Slightly liberal,,,Yes,No,No,,Masters degree (MA or MS),No
+88874,2010.02.18,2010.02.18,en,,,,FY922050,,1976,Male,White Caucasian,,No,No,5,,,,,,Republican,Somewhat liberal,,,Yes,No,No,,Masters degree (MA or MS),No
+88875,2010.02.18,2010.02.18,en,,,,FY980512,,1955,Male,White Caucasian,,Yes,,,,,,New York,,Democrat,Very liberal,,,Yes,Yes,No,,Masters degree (MA or MS),No
+88876,2010.02.18,2010.02.18,en,,,,FY996119,,1984,Female,#NAME?,,Yes,,,,,,Illinois,,Democrat,Very liberal,,,No,Yes,Yes,,Masters degree (MA or MS),No
+88877,2010.02.18,2010.02.18,en,,,,FY938634,,1985,Female,White Caucasian,,Yes,,,,,,Louisiana,,Democrat,Somewhat liberal,,,No,Yes,Yes,"",Masters degree (MA or MS),Yes
+88878,2010.02.18,2010.02.18,en,,,,FY963524,,1935,Male,White Caucasian,,Yes,,,,,,California,,Democrat,Somewhat liberal,,,Yes,Yes,Yes,,PhD MD MBA Law degree,Yes
+88879,2010.02.18,2010.02.18,en,,,,FY963829,,1978,Female,White Caucasian,,Yes,,,,,,California,,Democrat,Very liberal,,,Yes,Yes,Yes,,Four year college degree (BA or BS),No
+88880,2010.02.18,2010.02.18,en,,,,FY932456,,1943,Female,White Caucasian,,Yes,,,,,,California,,Democrat,Very liberal,,,Yes,No,Yes,,Masters degree (MA or MS),No
+88881,2010.02.18,2010.02.18,en,,,,FY907469,,1951,Female,White Caucasian,,Yes,,,,,,Montana,,Independent,Neither liberal nor conservative,,,Yes,No,No,,Four year college degree (BA or BS),Yes
+88882,2010.02.18,2010.02.18,en,,,,FY963913,,1945,Female,White Caucasian,,Yes,,,,,,Washington,,Democrat,Somewhat liberal,,,Yes,Yes,Yes,,PhD MD MBA Law degree,Yes
+88883,2010.02.18,2010.02.18,en,,,,FY944717,,1959,Male,White Caucasian,,Yes,,,,,,California,,Independent,Neither liberal nor conservative,,,No,Yes,Yes,,Four year college degree (BA or BS),No
+88885,2010.02.18,2010.02.18,en,,,,,,1929,Male,White Caucasian,,Yes,,,,,,South Dakota,,Independent,Slightly liberal,,,Yes,Yes,No,,Masters degree (MA or MS),No
+88887,2010.02.18,2010.02.18,en,,,,FY966249,,1985,Female,Asian or Pacific Islander,,Yes,,,,,,California,,Democrat,Somewhat liberal,,,No,No,Yes,,Four year college degree (BA or BS),Yes
+88888,2010.02.18,2010.02.18,en,,,,FY938344,,1935,Male,White Caucasian,,Yes,,,,,,Hawaii,,Democrat,Somewhat liberal,,,No,Yes,No,,Four year college degree (BA or BS),No
+88889,2010.02.18,2010.02.18,en,,,,FY948802,,1978,Female,White Caucasian,,Yes,,,,,,California,,Democrat,Somewhat liberal,,,Yes,Yes,Yes,,PhD MD MBA Law degree,No
+88890,2010.02.18,2010.02.18,en,,,,FY932972,,1953,Female,White Caucasian,,Yes,,,,,,California,,Democrat,Somewhat liberal,,,No,Yes,Yes,,Masters degree (MA or MS),No
+88891,2010.02.18,2010.02.18,en,,,,FY933759,,1944,Male,White Caucasian,,Yes,,,,,,Wisconsin,,Democrat,Somewhat liberal,,,Yes,Yes,Yes,,Masters degree (MA or MS),No
+88892,2010.02.18,2010.02.18,en,,,,FY931806,,1944,Female,White Caucasian,,Yes,,,,,,California,,Democrat,Somewhat liberal,,,Yes,Yes,No,,PhD MD MBA Law degree,No
+88893,2010.02.18,2010.02.18,en,,,,FY942572,,1924,Female,White Caucasian,,Yes,,,,,,New Jersey,,Democrat,Somewhat liberal,,,No,Yes,No,,Four year college degree (BA or BS),No
+88894,2010.02.18,2010.02.18,en,,,,FY909575,,1969,Female,White Caucasian,,Yes,,,,,,Massachusetts,,Democrat,Very liberal,,,Yes,Yes,No,,Masters degree (MA or MS),No
+88895,2010.02.18,2010.02.18,en,,,,FY912395,,1943,Male,White Caucasian,,Yes,,,,,,Massachusetts,,Republican,Somewhat conservative,,,Yes,No,No,,PhD MD MBA Law degree,No
+88896,2010.02.18,2010.02.18,en,,,,FY976269,,1932,Male,White Caucasian,,Yes,,,,,,New York,,Republican,Slightly conservative,,,Yes,Yes,No,,PhD MD MBA Law degree,No
+88897,2010.02.18,2010.02.18,en,,,,FY956537,,1984,Female,White Caucasian,,Yes,,,,,,Idaho,,Democrat,Somewhat liberal,,,Yes,Yes,Yes,,Four year college degree (BA or BS),No
+88898,2010.02.18,2010.02.18,en,,,,FY911738,,1971,Male,Asian or Pacific Islander,,No,No,13,,,,,,Independent,Somewhat liberal,,,No,Yes,Yes,,Masters degree (MA or MS),Yes
+88899,2010.02.18,2010.02.18,en,,,,FY959261,,1984,Female,Asian or Pacific Islander,,Yes,,,,,,California,,,Slightly liberal,,,No,Yes,Yes,,Masters degree (MA or MS),No
+88901,2010.02.18,2010.02.18,en,,,,FY955469,,1943,Female,White Caucasian,,Yes,,,,,,Maine,,Democrat,Somewhat liberal,,,Yes,Yes,No,,PhD MD MBA Law degree,No
+88902,2010.02.18,2010.02.18,en,,,,FY987316,,1975,Female,White Caucasian,,Yes,,,,,,California,,Democrat,Somewhat liberal,,,No,No,No,,PhD MD MBA Law degree,No
+88903,2010.02.18,2010.02.18,en,,,,FY946138,,1977,Female,Asian or Pacific Islander,,Yes,,,,,,California,,Democrat,Somewhat liberal,,,No,Yes,Yes,"",Masters degree (MA or MS),No
+88904,2010.02.18,2010.02.18,en,,,,FY940087,,1925,Male,White Caucasian,,Yes,,,,,,California,,Democrat,Somewhat liberal,,,Yes,No,No,,Four year college degree (BA or BS),No
+88905,2010.02.18,2010.02.18,en,,,,FY952062,,1976,Female,White Caucasian,,Yes,,,,,,California,,Democrat,Somewhat liberal,,,Yes,Yes,Yes,,Four year college degree (BA or BS),No
+88906,2010.02.18,2010.02.18,en,,,,FY994684,,1934,Female,White Caucasian,,Yes,,,,,,California,,Republican,Somewhat conservative,,,Yes,Yes,No,,Four year college degree (BA or BS),No
+88907,2010.02.18,2010.02.18,en,,,,FY924367,,1955,Female,White Caucasian,,Yes,,,,,,,,Republican,Neither liberal nor conservative,,,Yes,Yes,Yes,,Four year college degree (BA or BS),Yes
+88908,2010.02.18,2010.02.18,en,,,,FY955711,,1982,Female,Asian or Pacific Islander,,Yes,,,,,,California,,Democrat,Somewhat liberal,,,Yes,No,No,,Masters degree (MA or MS),No
+88909,2010.02.18,2010.02.18,en,,,,FY968976,,1956,Female,White Caucasian,,Yes,,,,,,North Carolina,,Democrat,Somewhat liberal,,,Yes,No,No,,Masters degree (MA or MS),No
+88910,2010.02.18,2010.02.18,en,,,,FY981760,,1981,Female,White Caucasian,,Yes,,,,,,California,,Democrat,Somewhat liberal,,,Yes,,Yes,,Masters degree (MA or MS),No
+88911,2010.02.18,2010.02.18,en,,,,FY956362,,1954,Female,White Caucasian,,Yes,,,,,,Ohio,,Independent,Somewhat liberal,,,Yes,Yes,No,,Four year college degree (BA or BS),No
+88912,2010.02.18,2010.02.18,en,,,,FY981277,,1963,Female,White Caucasian,,Yes,,,,,,Kentucky,,Democrat,Very liberal,,,Yes,Yes,Yes,,PhD MD MBA Law degree,No
+88913,2010.02.18,2010.02.18,en,,,,FY977599,,1957,Female,White Caucasian,,Yes,,,,,,California,,Republican,Very conservative,,,Yes,Yes,No,,Masters degree (MA or MS),No
+88914,2010.02.18,2010.02.18,en,,,,FY962754,,1968,Male,White Caucasian,,Yes,,,,,,California,,Independent,Slightly liberal,,"",Yes,Yes,Yes,,Masters degree (MA or MS),No
+88915,2010.02.18,2010.02.18,en,,,,FY969999,,1983,Female,White Caucasian,,Yes,,,,,,California,,Independent,Slightly liberal,,,Yes,Yes,Yes,,Masters degree (MA or MS),No
+88916,2010.02.18,2010.02.18,en,,,,FY930554,,1942,Female,White Caucasian,,Yes,,,,,,New York,,Democrat,Somewhat liberal,,,Yes,Yes,Yes,,Masters degree (MA or MS),No
+88917,2010.02.18,2010.02.18,en,,,,FY962397,,1955,Male,White Caucasian,,Yes,,,,,,California,,Democrat,Very liberal,,,Yes,No,Yes,,Masters degree (MA or MS),Yes
+88918,2010.02.18,2010.02.18,en,,,,FY929184,,1977,Female,Black or African American,,Yes,,,,,,North Carolina,,Independent,Neither liberal nor conservative,,,Yes,Yes,Yes,,PhD MD MBA Law degree,Yes
+88919,2010.02.18,2010.02.18,en,,,,FY955884,,1936,Female,,,Yes,,,,,,California,,Democrat,Very liberal,"","",Yes,Yes,No,,Four year college degree (BA or BS),Yes
+88920,2010.02.18,,en,,,,FY904327,,,,,,,,,,,,,,,,,,,,,,,
+88922,2010.02.18,2010.02.18,en,,,,FY919519,,1963,Female,White Caucasian,,Yes,,,,,,New Jersey,,Independent,Somewhat conservative,,,Yes,Yes,No,,Four year college degree (BA or BS),No
+88924,2010.02.18,2010.02.18,en,,,,,,1922,Female,,"",Yes,,,,,,California,,Democrat,Somewhat liberal,,,Yes,Yes,Yes,,Masters degree (MA or MS),Yes
+88925,2010.02.18,2010.02.18,en,,,,FY972641,,1973,Female,Asian or Pacific Islander,,No,Yes,33,,,,,,Independent,Slightly liberal,,,Yes,Yes,Yes,,PhD MD MBA Law degree,No
+88927,2010.02.18,2010.02.18,en,,,,FY909228,,1946,Female,White Caucasian,,Yes,,,,,,Illinois,,Independent,Slightly liberal,,,Yes,Yes,No,,Masters degree (MA or MS),No
+88928,2010.02.18,2010.02.18,en,,,,FY940575,,1955,Male,White Caucasian,,Yes,,,,,,California,,Democrat,Somewhat liberal,,,Yes,Yes,Yes,,PhD MD MBA Law degree,No
+88929,2010.02.18,2010.02.18,en,,,,FY976474,,1961,Female,White Caucasian,,Yes,,,,,,Arizona,,Democrat,Somewhat liberal,,,No,Yes,Yes,,Four year college degree (BA or BS),Yes
+88931,2010.02.18,2010.02.18,en,,,,FY963492,,1969,Female,White Caucasian,,Yes,,,,,,California,,Independent,Slightly conservative,,,Yes,Yes,Yes,,Four year college degree (BA or BS),No
+88932,2010.02.18,2010.02.18,en,,,,FY954744,,1984,Male,Asian or Pacific Islander,,Yes,,,,,,Hawaii,,Other,Slightly liberal,,,Yes,Yes,Yes,,Masters degree (MA or MS),No
+88933,2010.02.18,2010.02.18,en,,,,FY913501,,1965,Female,Unknown,,Yes,,,,,,New Hampshire,,Independent,Somewhat liberal,,,Yes,Yes,Yes,,Masters degree (MA or MS),No
+88934,2010.02.18,2010.02.18,en,,,,FY996689,,1953,Male,White Caucasian,,Yes,,,,,,California,,Democrat,Very liberal,,,Yes,Yes,Yes,,Four year college degree (BA or BS),Yes
+88935,2010.02.18,2010.02.18,en,,,,FY963370,,1958,Female,White Caucasian,,Yes,,,,,,Alabama,,Democrat,Somewhat liberal,,,Yes,Yes,Yes,,Four year college degree (BA or BS),Yes
+88936,2010.02.18,2010.02.18,en,,,,FY978840,,1978,Female,White Caucasian,,Yes,,,,,,Washington,,Democrat,Slightly conservative,,,No,Yes,Yes,,Masters degree (MA or MS),No
+88937,2010.02.18,2010.02.18,en,,,,FY935376,,1956,Male,White Caucasian,,Yes,,,,,,California,,Democrat,Somewhat liberal,,,Yes,No,No,,PhD MD MBA Law degree,No
+88938,2010.02.18,2010.02.18,en,,,,FY908065,,1964,Female,White Caucasian,,Yes,,,,,,Minnesota,,Democrat,Very liberal,,,Yes,Yes,No,,Masters degree (MA or MS),No
+88939,2010.02.18,2010.02.18,en,,,,FY905833,,1948,Female,White Caucasian,,Yes,,,,,,Kentucky,,Democrat,Very liberal,,,Yes,Yes,Yes,,Masters degree (MA or MS),No
+88940,2010.02.18,2010.02.18,en,,,,FY997031,,1958,Male,Latino or Hispanic,,Yes,,,,,,Michigan,,Democrat,Very liberal,,,Yes,No,No,,PhD MD MBA Law degree,No
+88941,2010.02.18,2010.02.18,en,,,,FY908055,,1975,Male,White Caucasian,,No,No,3,,,,,,Republican,Somewhat conservative,,,Yes,No,No,,PhD MD MBA Law degree,No
+88942,2010.02.18,2010.02.18,en,,,,FY992110,,1974,Male,Latino or Hispanic,,No,No,2,"",,,,,Democrat,Slightly liberal,,,Yes,No,No,,Masters degree (MA or MS),No
+88943,2010.02.18,2010.02.18,en,,,,FY920663,,1926,Male,White Caucasian,,Yes,,,,,,Michigan,,Democrat,Slightly liberal,,,Yes,Yes,No,,Four year college degree (BA or BS),No
+88944,2010.02.18,2010.02.18,en,,,,FY977008,,1939,Female,White Caucasian,,Yes,,,,,,Oregon,,Democrat,Somewhat liberal,,,Yes,Yes,Yes,,Masters degree (MA or MS),Yes
+88945,2010.02.18,2010.02.18,en,,,,FY920509,,1961,Female,White Caucasian,,Yes,,,,,,Oklahoma,,Republican,Slightly conservative,,,Yes,Yes,No,,Four year college degree (BA or BS),No
+88946,2010.02.18,2010.02.18,en,,,,FY946501,,1988,Female,White Caucasian,,Yes,,,,,,California,,Independent,Somewhat conservative,,,Yes,No,Yes,,Four year college degree (BA or BS),No
+88947,2010.02.18,2010.02.18,en,,,,FY909037,,1974,Male,Black or African American,,Yes,,,,,,New Jersey,,Democrat,Slightly conservative,,,Yes,No,Yes,,Masters degree (MA or MS),No
+88949,2010.02.18,2010.02.18,en,,,,FY979092,,1951,Female,White Caucasian,,Yes,,,,,,Ohio,,Independent,Somewhat liberal,,,Yes,Yes,Yes,,PhD MD MBA Law degree,No
+88952,2010.02.18,2010.02.18,en,,,,FY904932,,1970,Male,Asian or Pacific Islander,,Yes,,,,,,New York,,Independent,Neither liberal nor conservative,,,Yes,Yes,Yes,,Four year college degree (BA or BS),Yes
+88953,2010.02.18,2010.02.18,en,,,,FY924958,,1947,Female,White Caucasian,,Yes,,,,,,Minnesota,,Democrat,Slightly liberal,,,Yes,Yes,No,,PhD MD MBA Law degree,No
+88954,2010.02.18,2010.02.18,en,,,,FY909789,,1955,Male,White Caucasian,,Yes,,,,,,California,,Independent,Slightly conservative,,,Yes,Yes,Yes,,PhD MD MBA Law degree,No
+88955,2010.02.18,2010.02.18,en,,,,FY919777,,1959,Male,White Caucasian,,Yes,,,,,,Ohio,,Republican,Very conservative,,,Yes,Yes,No,,Masters degree (MA or MS),Yes
+88957,2010.02.18,2010.02.18,en,,,,FY982103,,1952,Female,#NAME?,,Yes,,,,,,Massachusetts,,Independent,Somewhat liberal,,,Yes,Yes,No,,PhD MD MBA Law degree,No
+88958,2010.02.18,2010.02.18,en,,,,FY981094,,1969,Female,White Caucasian,,Yes,,,,,,California,,Democrat,Somewhat liberal,,,Yes,Yes,Yes,,Four year college degree (BA or BS),Yes
+88959,2010.02.18,,en,,,,FY990792,,,,,,,,,,,,,,,,,,,,,,,
+88960,2010.02.18,2010.02.18,en,,,,FY952485,,1976,Female,White Caucasian,,Yes,,,,,,Illinois,,Democrat,Somewhat liberal,,"",Yes,Yes,Yes,,Four year college degree (BA or BS),Yes
+88961,2010.02.18,2010.02.18,en,,,,FY990792,,1971,Male,Latino or Hispanic,,No,No,2,,,,,,Other,Slightly liberal,,,Yes,No,No,,PhD MD MBA Law degree,No
+88962,2010.02.18,2010.02.18,en,,,,FY957584,,1947,Male,White Caucasian,,Yes,,,,,,Illinois,,Democrat,Slightly liberal,,,Yes,Yes,No,,PhD MD MBA Law degree,No
+88963,2010.02.18,2010.02.18,en,,,,FY980620,,1946,Female,White Caucasian,,Yes,,,,,,Maryland,,Other,Somewhat liberal,,,Yes,Yes,Yes,,Four year college degree (BA or BS),No
+88964,2010.02.18,2010.02.18,en,,,,FY947949,,1976,Female,Asian or Pacific Islander,,No,No,31,,,,,,Democrat,Somewhat liberal,,,Yes,,Yes,"",PhD MD MBA Law degree,No
+88965,2010.02.18,2010.02.18,en,,,,FY975666,,1984,Male,Latino or Hispanic,,Yes,,,,,,California,,Republican,Slightly conservative,,,No,No,Yes,,Four year college degree (BA or BS),Yes
+88966,2010.02.18,2010.02.18,en,,,,FY942657,,1982,Female,#NAME?,,No,Yes,25,,,,,,Other,Very liberal,,,No,Yes,Yes,,Masters degree (MA or MS),Yes
+88967,2010.02.18,2010.02.18,en,,,,FY993202,,1966,Female,White Caucasian,,Yes,,,,,,California,,Democrat,Somewhat conservative,,,Yes,Yes,Yes,,Four year college degree (BA or BS),No
+88968,2010.02.18,2010.02.18,en,,,,FY994152,,1946,Female,White Caucasian,,Yes,,,,,,New York,,Democrat,Somewhat liberal,,,No,Yes,No,,Masters degree (MA or MS),No
+88969,2010.02.18,2010.02.18,en,,,,FY900433,,1953,Female,White Caucasian,,Yes,,,,,,Oklahoma,,Republican,Very conservative,,,Yes,Yes,Yes,,Four year college degree (BA or BS),No
+88970,2010.02.18,2010.02.18,en,,,,FY997723,,1967,Male,White Caucasian,,Yes,,,,,,Minnesota,,Democrat,Somewhat liberal,,,Yes,No,No,,PhD MD MBA Law degree,No
+88971,2010.02.18,2010.02.18,en,,,,FY966397,,1973,Female,#NAME?,"",Yes,,,,,,California,,Democrat,Somewhat liberal,,,Yes,Yes,Yes,,Masters degree (MA or MS),No
+88972,2010.02.18,2010.02.18,en,,,,FY985858,,1953,Female,White Caucasian,,Yes,,,,,,South Carolina,,Democrat,Neither liberal nor conservative,,,Yes,Yes,Yes,,PhD MD MBA Law degree,No
+88973,2010.02.18,2010.02.18,en,,,,FY929864,,1958,Female,White Caucasian,,Yes,,,,,,California,,Republican,Neither liberal nor conservative,"",,Yes,Yes,No,,Four year college degree (BA or BS),No
+88974,2010.02.18,2010.02.18,en,,,,FY962651,,1979,Male,White Caucasian,,Yes,,,,,,Iowa,,Democrat,Slightly conservative,,,Yes,Yes,Yes,,Masters degree (MA or MS),Yes
+88975,2010.02.18,2010.02.18,en,,,,FY988236,,1943,Male,White Caucasian,,Yes,,,,,,Indiana,,Democrat,Somewhat liberal,,,Yes,No,No,,Masters degree (MA or MS),No
+88976,2010.02.18,,en,,,,FY900741,,1972,Female,White Caucasian,,Yes,,,,,,Washington,,,,,,,,,,,
+88977,2010.02.18,2010.02.18,en,,,,FY900741,,1972,Female,White Caucasian,,Yes,,,,,,Washington,,Democrat,Slightly liberal,,,Yes,No,Yes,,PhD MD MBA Law degree,Yes
+88978,2010.02.18,2010.02.18,en,,,,FY905149,,1955,Female,White Caucasian,,No,Yes,51,,,,,,Democrat,Very liberal,,,No,Yes,Yes,,Masters degree (MA or MS),Yes
+88979,2010.02.18,2010.02.18,en,,,,FY994781,,1931,Female,White Caucasian,,Yes,,,,,,Texas,,Democrat,Somewhat liberal,,,Yes,No,No,,Masters degree (MA or MS),Yes
+88980,2010.02.18,2010.02.18,en,,,,FY946968,,1971,Female,White Caucasian,,Yes,,,,,,California,,Democrat,Very liberal,,,Yes,Yes,Yes,,PhD MD MBA Law degree,No
+88981,2010.02.18,2010.02.18,en,,,,FY957980,,1985,Female,Asian or Pacific Islander,,Yes,,,,,,Massachusetts,,Democrat,Very liberal,,,Yes,Yes,Yes,"",Four year college degree (BA or BS),No
+88982,2010.02.18,2010.02.18,en,,,,FY960939,,1939,Female,White Caucasian,,Yes,,,,,,California,,Democrat,Very liberal,,,Yes,Yes,No,,PhD MD MBA Law degree,No
+88983,2010.02.18,2010.02.18,en,,,,FY972771,,1978,Male,White Caucasian,,Yes,,,,,,California,,Independent,Slightly conservative,,"",Yes,Yes,Yes,,PhD MD MBA Law degree,No
+88984,2010.02.18,2010.02.18,en,,,,FY967253,,1960,Male,White Caucasian,,No,Yes,32,,,,,,Other,Neither liberal nor conservative,,,Yes,Yes,No,,PhD MD MBA Law degree,No
+88985,2010.02.18,2010.02.18,en,,,,FY982803,,1954,Male,White Caucasian,,Yes,,,,,,New York,,Independent,Somewhat liberal,,,Yes,Yes,Yes,,Four year college degree (BA or BS),No
+88986,2010.02.18,2010.02.18,en,,,,FY995128,,1967,Female,White Caucasian,,Yes,,,,,,Illinois,,Democrat,Slightly liberal,,,Yes,Yes,No,,Masters degree (MA or MS),No
+88988,2010.02.18,2010.02.18,en,,,,FY977383,,1960,Male,White Caucasian,,Yes,,,,,,Arizona,,Republican,Somewhat conservative,,,Yes,Yes,No,,PhD MD MBA Law degree,No
+88990,2010.02.18,2010.02.18,en,,,,FY915795,,1942,Female,White Caucasian,,Yes,,,,,,Illinois,,Republican,Slightly conservative,,,Yes,Yes,No,,Masters degree (MA or MS),No
+88991,2010.02.18,2010.02.18,en,,,,FY939876,,1971,Female,Asian or Pacific Islander,,No,Yes,23,,,,,,Independent,Slightly conservative,,,No,No,No,"",Masters degree (MA or MS),No
+88992,2010.02.18,2010.02.18,en,,,,FY959579,,1958,Male,White Caucasian,,No,No,,,,,,"",Other,Somewhat conservative,,,Yes,No,No,,PhD MD MBA Law degree,No
+88994,2010.02.18,,en,,,,FY975832,,1971,Female,White Caucasian,,Yes,,,,,,,,,,,,,,,,,
+88995,2010.02.18,2010.02.18,en,,,,FY975832,,1971,Female,White Caucasian,,Yes,,,,,,Idaho,,Democrat,Somewhat liberal,,,Yes,Yes,Yes,,PhD MD MBA Law degree,No
+88996,2010.02.18,2010.02.18,en,,,,FY921285,,1975,Female,White Caucasian,,Yes,,,,,,Florida,,Democrat,Somewhat liberal,,,Yes,Yes,Yes,,Masters degree (MA or MS),No
+88997,2010.02.18,2010.02.18,en,,,,FY970878,,1940,Male,White Caucasian,,Yes,,,,,,Missouri,"",Democrat,Somewhat liberal,,,Yes,Yes,Yes,,PhD MD MBA Law degree,Yes
+88998,2010.02.18,2010.02.18,en,,,,FY960611,,1916,Male,White Caucasian,,Yes,,,,,,California,,Republican,Somewhat conservative,,,Yes,Yes,No,,PhD MD MBA Law degree,No
+88999,2010.02.18,2010.02.18,en,,,,FY956131,,1957,Female,White Caucasian,,Yes,,,,,,New York,,Democrat,Somewhat liberal,,,Yes,Yes,No,,PhD MD MBA Law degree,No
+89001,2010.02.18,2010.02.18,en,,,,FY999080,,1965,Female,Black or African American,,Yes,,,,,,Washington,,Independent,Slightly conservative,,,Yes,Yes,No,,PhD MD MBA Law degree,No
+89002,2010.02.18,2010.02.18,en,,,,FY907140,,1944,Male,White Caucasian,,Yes,,,,,,Missouri,,Democrat,Somewhat liberal,,,Yes,Yes,Yes,,Masters degree (MA or MS),No
+89003,2010.02.18,2010.02.18,en,,,,FY930546,,1969,Female,White Caucasian,,No,No,2,,,,,"",Democrat,Slightly liberal,,"",Yes,No,No,,PhD MD MBA Law degree,No
+89004,2010.02.18,2010.02.18,en,,,,FY931146,,1925,Male,White Caucasian,,Yes,,,,,,Maine,,Republican,Somewhat conservative,,,Yes,No,No,,Masters degree (MA or MS),No
+89006,2010.02.18,2010.02.18,en,,,,FY918910,,1944,Male,Latino or Hispanic,,No,No,2,,,,,"",Democrat,Very liberal,,,Yes,No,No,,Masters degree (MA or MS),No
+89007,2010.02.18,2010.02.18,en,,,,FY973822,,1957,Male,White Caucasian,,Yes,,,,,,Nebraska,,Independent,Somewhat conservative,,,Yes,Yes,No,,PhD MD MBA Law degree,No
+89008,2010.02.18,2010.02.18,en,,,,FY903514,,1921,Male,White Caucasian,,Yes,,,,,,California,,Democrat,Somewhat liberal,,,Yes,No,No,,Four year college degree (BA or BS),No
+89009,2010.02.18,2010.02.18,en,,,,FY961847,,1982,Female,Asian or Pacific Islander,,Yes,,,,,,California,,Democrat,Somewhat liberal,,,No,No,Yes,,Masters degree (MA or MS),No
+89010,2010.02.18,2010.02.18,en,,,,FY964953,,1954,Female,White Caucasian,,Yes,,,,,,California,,Democrat,Somewhat liberal,,,Yes,Yes,Yes,,PhD MD MBA Law degree,No
+89011,2010.02.18,2010.02.18,en,,,,FY937683,,1951,Male,White Caucasian,,Yes,,,,,,California,,Democrat,Somewhat liberal,,,Yes,Yes,No,,PhD MD MBA Law degree,Yes
+89012,2010.02.18,2010.02.18,en,,,,FY957005,,1978,Female,#NAME?,,Yes,,,,,,California,,Independent,Neither liberal nor conservative,,,Yes,No,Yes,,PhD MD MBA Law degree,No
+89013,2010.02.18,2010.02.18,en,,,,FY943970,,1934,Female,White Caucasian,,Yes,,,,,,California,,Democrat,Somewhat liberal,,,No,No,No,,Four year college degree (BA or BS),No
+89014,2010.02.18,2010.02.18,en,,,,FY903374,,1967,Male,White Caucasian,,No,No,11,,,,,,Other,Neither liberal nor conservative,,,No,No,No,,PhD MD MBA Law degree,No
+89015,2010.02.18,2010.02.18,en,,,,FY914868,,1973,Female,White Caucasian,,Yes,,,,,,California,,Republican,Slightly conservative,,"",Yes,Yes,No,,PhD MD MBA Law degree,No
+89016,2010.02.18,2010.02.18,en,,,,FY952488,,1943,Female,White Caucasian,,Yes,,,,,,Texas,,Democrat,Somewhat liberal,,,Yes,Yes,Yes,,Four year college degree (BA or BS),Yes
+89018,2010.02.18,2010.02.18,en,,,,FY959430,,1948,Male,White Caucasian,,Yes,,,,,,Pennsylvania,,Republican,Somewhat conservative,,,Yes,Yes,Yes,,Masters degree (MA or MS),Yes
+89019,2010.02.18,2010.02.18,en,,,,FY982526,,1949,Female,White Caucasian,,Yes,,,,,,Illinois,,Republican,Somewhat conservative,,,Yes,No,Yes,,Four year college degree (BA or BS),No
+89020,2010.02.18,2010.02.18,en,,,,FY904314,,1975,Female,White Caucasian,,Yes,,,,,,Arkansas,,Democrat,Somewhat liberal,,,Yes,Yes,Yes,,PhD MD MBA Law degree,No
+89021,2010.02.18,2010.02.18,en,,,,FY992611,,1959,Female,White Caucasian,,Yes,,,,,,Oregon,,Democrat,Somewhat liberal,,,Yes,Yes,Yes,,Four year college degree (BA or BS),No
+89022,2010.02.18,2010.02.18,en,,,,FY940353,,1958,Male,White Caucasian,,Yes,,,,,,California,,Independent,Very liberal,,,Yes,Yes,Yes,,Four year college degree (BA or BS),No
+89023,2010.02.18,2010.02.18,en,,,,FY988587,,1978,Female,White Caucasian,,Yes,,,,,,California,,Democrat,Somewhat liberal,,,No,Yes,Yes,,Masters degree (MA or MS),No
+89025,2010.02.18,2010.02.18,en,,,,FY977741,,1956,Male,White Caucasian,,No,No,2,,,,,,Independent,Very liberal,,,Yes,No,No,,Masters degree (MA or MS),No
+89026,2010.02.18,2010.02.18,en,,,,FY970472,,1986,Female,#NAME?,,Yes,,,,,,California,,Democrat,Somewhat liberal,,,Yes,Yes,Yes,,Four year college degree (BA or BS),No
+89027,2010.02.18,2010.02.18,en,,,,FY960161,,1941,Female,White Caucasian,,Yes,,,,,,California,,Democrat,Very liberal,,,Yes,No,No,,PhD MD MBA Law degree,No
+89029,2010.02.18,2010.02.18,en,,,,FY942218,,1962,Female,White Caucasian,,No,No,1,,,,,,Democrat,Slightly liberal,,,Yes,No,No,,Masters degree (MA or MS),No
+89030,2010.02.18,2010.02.18,en,,,,FY963289,,1972,Male,#NAME?,,No,No,15,,,,,,Democrat,Somewhat liberal,,,Yes,Yes,No,,Masters degree (MA or MS),No
+89031,2010.02.18,2010.02.18,en,,,,FY923829,,1956,Male,White Caucasian,,Yes,,,,,,Pennsylvania,,Democrat,Very liberal,,,Yes,Yes,Yes,,PhD MD MBA Law degree,No
+89032,2010.02.18,2010.02.18,en,,,,FY952591,,1962,Female,White Caucasian,,No,No,5,,,,,"",Other,Neither liberal nor conservative,,,Yes,Yes,No,,PhD MD MBA Law degree,No
+89033,2010.02.19,2010.02.19,en,,,,FY977020,,1973,Female,White Caucasian,,Yes,,,,,,Indiana,,Democrat,Somewhat liberal,,,Yes,No,Yes,,Masters degree (MA or MS),No
+89034,2010.02.19,2010.02.19,en,,,,FY941159,,1972,Male,White Caucasian,,No,No,5,,,,,,Other,Very liberal,,,Yes,No,No,,PhD MD MBA Law degree,No
+89035,2010.02.19,2010.02.19,en,,,,FY977451,,1942,Male,White Caucasian,,No,Yes,27,,,,,"",Democrat,Somewhat liberal,,,Yes,No,No,,PhD MD MBA Law degree,No
+89037,2010.02.19,2010.02.19,en,,,,FY983801,,1960,Female,White Caucasian,,Yes,,,,,,District of Columbia,,Democrat,Somewhat liberal,,,No,No,Yes,,Masters degree (MA or MS),No
+89038,2010.02.19,2010.02.19,en,,,,FY960055,,1948,Male,White Caucasian,,Yes,,,,,,Iowa,,Democrat,Very liberal,,,No,Yes,Yes,,Four year college degree (BA or BS),No
+89039,2010.02.19,2010.02.19,en,,,,FY995815,,1985,Male,White Caucasian,,No,Yes,18,,,,,,Independent,Somewhat liberal,,"",No,No,No,,Four year college degree (BA or BS),Yes
+89040,2010.02.19,2010.02.19,en,,,,FY900881,,1934,Female,White Caucasian,,Yes,,,,,,California,"",Democrat,Somewhat liberal,,,Yes,Yes,No,,Masters degree (MA or MS),No
+89041,2010.02.19,2010.02.19,en,,,,FY967001,,1942,Male,White Caucasian,,No,No,6,,,,,,Other,Neither liberal nor conservative,"","",Yes,No,No,,Masters degree (MA or MS),No
+89042,2010.02.19,2010.02.19,en,,,,FY972040,,1966,Male,White Caucasian,,Yes,,,,,,Maryland,"",Democrat,Somewhat liberal,,,Yes,No,No,,PhD MD MBA Law degree,No
+89043,2010.02.19,2010.02.19,en,,,,FY900830,,1956,Male,White Caucasian,,Yes,,,,,,Rhode Island,,Democrat,Somewhat liberal,,,No,No,No,,PhD MD MBA Law degree,No
+89044,2010.02.19,2010.02.19,en,,,,FY935003,,1982,Female,White Caucasian,,No,Yes,24,,,,,,Independent,Slightly liberal,,,Yes,Yes,No,"",Masters degree (MA or MS),No
+89046,2010.02.19,2010.02.19,en,,,,FY922157,,1985,Female,White Caucasian,,Yes,,,,,,California,,Democrat,Somewhat liberal,,,Yes,Yes,Yes,,Four year college degree (BA or BS),No
+89047,2010.02.19,2010.02.19,en,,,,FY958154,,1942,Female,White Caucasian,,Yes,,,,,,California,"",Democrat,Very liberal,,,No,Yes,No,,Masters degree (MA or MS),No
+89048,2010.02.19,,en,,,,FY912192,,1935,Male,White Caucasian,,Yes,,,,,,Missouri,"",,,,,,,,,,
+89049,2010.02.19,2010.02.19,en,,,,FY912192,,1935,Male,White Caucasian,,Yes,,,,,,Missouri,"",Democrat,Somewhat liberal,,,Yes,Yes,No,,Masters degree (MA or MS),No
+89050,2010.02.19,2010.02.19,en,,,,FY978784,,1944,Female,White Caucasian,,Yes,,,,,,Connecticut,"",Democrat,Very liberal,,,Yes,Yes,Yes,,PhD MD MBA Law degree,No
+89051,2010.02.19,2010.02.19,en,,,,FY999401,,1949,Female,White Caucasian,,No,No,3,,,,,,Democrat,Slightly liberal,,,Yes,Yes,No,,PhD MD MBA Law degree,No
+89052,2010.02.19,2010.02.19,en,,,,FY988226,,1969,Female,White Caucasian,,No,No,9,,,,,,Democrat,Very liberal,,,Yes,No,No,,PhD MD MBA Law degree,No
+89053,2010.02.19,2010.02.19,en,,,,FY907250,,1959,Female,White Caucasian,,Yes,,,,,,Alabama,,Democrat,Slightly conservative,,,Yes,No,No,,PhD MD MBA Law degree,No
+89055,2010.02.19,2010.02.19,en,,,,FY965454,,1938,Male,White Caucasian,,Yes,,,,,,Massachusetts,"",Republican,Somewhat conservative,,,Yes,No,No,,PhD MD MBA Law degree,No
+89057,2010.02.19,2010.02.19,en,,,,FY962110,,1967,Female,Latino or Hispanic,,No,No,9,"",,,,"",Independent,Somewhat liberal,,,Yes,Yes,Yes,,PhD MD MBA Law degree,No
+89058,2010.02.19,2010.02.19,en,,,,FY974342,,1960,Male,#NAME?,,No,No,1,,,,,,Democrat,Slightly liberal,,,Yes,No,No,,Masters degree (MA or MS),No
+89063,2010.02.19,2010.02.19,en,,,,FY962783,,1979,Female,Asian or Pacific Islander,,No,Yes,28,,,,,,Democrat,Somewhat liberal,,,Yes,Yes,No,,PhD MD MBA Law degree,No
+89065,2010.02.19,2010.02.19,en,,,,FY943284,,1958,Female,White Caucasian,,Yes,,,,,,New York,,Democrat,Somewhat liberal,,,Yes,Yes,Yes,,PhD MD MBA Law degree,No
+89066,2010.02.19,2010.02.19,en,,,,FY905143,,1959,Male,White Caucasian,,Yes,,,,,,Illinois,,Republican,Slightly conservative,,,Yes,Yes,Yes,,PhD MD MBA Law degree,No
+89068,2010.02.19,2010.02.19,en,,,,FY930422,,1961,Male,White Caucasian,,No,No,6,,,,,,,Slightly liberal,,,Yes,No,Yes,,Masters degree (MA or MS),Yes
+89069,2010.02.19,2010.02.19,en,,,,FY991013,,1968,Female,White Caucasian,,Yes,,,,,,Ohio,,Democrat,Very liberal,,,No,Yes,Yes,,Masters degree (MA or MS),No
+89071,2010.02.19,2010.02.19,en,,,,FY975569,,1948,Female,White Caucasian,,Yes,,,,,,Montana,,Democrat,Very liberal,,,No,No,No,,PhD MD MBA Law degree,Yes
+89073,2010.02.19,2010.02.19,en,,,,FY948239,,1942,Female,White Caucasian,,Yes,,,,,,New Jersey,,Democrat,Somewhat liberal,,,Yes,No,No,,Masters degree (MA or MS),No
+89075,2010.02.19,2010.02.19,en,,,,FY952230,,1980,Female,White Caucasian,,No,Yes,20,,,,,,Democrat,Somewhat liberal,,,Yes,Yes,Yes,,Four year college degree (BA or BS),No
+89076,2010.02.19,2010.02.19,en,,,,FY943840,,1955,Female,White Caucasian,,Yes,,,,,,Michigan,,Other,Somewhat liberal,,,Yes,No,Yes,,Masters degree (MA or MS),Yes
+89077,2010.02.19,2010.02.19,en,,,,FY902511,,1957,Male,Latino or Hispanic,"",No,No,17,,,,,"",Independent,Neither liberal nor conservative,,,Yes,Yes,No,,Masters degree (MA or MS),No
+89078,2010.02.19,2010.02.19,en,,,,FY913535,,1978,Female,White Caucasian,,Yes,,,,,,New Jersey,"",Democrat,Very liberal,,,Yes,No,No,,PhD MD MBA Law degree,No
+89080,2010.02.19,2010.02.19,en,,,,FY921735,,1969,Female,White Caucasian,,No,Yes,36,,,,,,Independent,Slightly liberal,,,Yes,No,No,,PhD MD MBA Law degree,No
+89081,2010.02.19,2010.02.19,en,,,,FY948016,,1982,Male,White Caucasian,,Yes,,,,,,Illinois,,Other,Somewhat liberal,,,No,Yes,No,,Masters degree (MA or MS),No
+89082,2010.02.19,2010.02.19,en,,,,FY919744,,1957,Male,White Caucasian,,Yes,,,,,,Michigan,,Democrat,Slightly liberal,,,No,Yes,No,,PhD MD MBA Law degree,No
+89083,2010.02.19,2010.02.19,en,,,,FY988909,,1960,Female,White Caucasian,,No,No,5,,,,,,Democrat,Slightly conservative,,,Yes,Yes,No,,PhD MD MBA Law degree,No
+89084,2010.02.19,2010.02.19,en,,,,FY915175,,1941,Male,White Caucasian,,Yes,,,,,,New York,,Democrat,Somewhat liberal,,,Yes,Yes,Yes,,PhD MD MBA Law degree,Yes
+89085,2010.02.19,2010.02.19,en,,,,FY970691,,1959,Female,White Caucasian,,Yes,,,,,,Illinois,,Independent,Somewhat liberal,,,Yes,Yes,No,,Four year college degree (BA or BS),No
+89086,2010.02.19,2010.02.19,en,,,,FY932177,,1987,Female,White Caucasian,,No,Yes,20,,,,,,Democrat,Somewhat liberal,,,No,Yes,Yes,,Four year college degree (BA or BS),No
+89087,2010.02.19,,en,,,,FY907296,,1947,Male,White Caucasian,,Yes,,,,,,Pennsylvania,,Independent,Slightly conservative,,,Yes,,,,,
+89088,2010.02.19,2010.02.19,en,,,,FY907296,,1947,Male,White Caucasian,,Yes,,,,,,Pennsylvania,,Independent,Slightly conservative,,,Yes,Yes,No,,Masters degree (MA or MS),No
+89089,2010.02.19,2010.02.19,en,,,,FY903494,,1946,Male,#NAME?,,Yes,,,,,,California,,Democrat,Slightly liberal,,,Yes,Yes,No,,PhD MD MBA Law degree,No
+89091,2010.02.19,2010.02.19,en,,,,FY995889,,1970,Female,White Caucasian,,Yes,,,,,,Nebraska,,Democrat,Slightly liberal,,,Yes,Yes,Yes,,PhD MD MBA Law degree,No
+89093,2010.02.19,2010.02.19,en,,,,FY983265,,1942,Male,White Caucasian,,Yes,,,,,,California,,Independent,Neither liberal nor conservative,,,Yes,Yes,Yes,,PhD MD MBA Law degree,No
+89094,2010.02.19,2010.02.19,en,,,,FY913999,,1944,Male,White Caucasian,,Yes,,,,,,New York,,Democrat,Somewhat liberal,,,Yes,Yes,Yes,,PhD MD MBA Law degree,Yes
+89095,2010.02.19,2010.02.19,en,,,,FY977282,,1948,Male,White Caucasian,,Yes,,,,,,New York,,Democrat,Very liberal,,,No,Yes,Yes,,PhD MD MBA Law degree,Yes
+89096,2010.02.19,2010.02.19,en,,,,FY969316,,1952,Female,White Caucasian,,Yes,,,,,,Massachusetts,,Democrat,Somewhat liberal,,,Yes,Yes,No,,Masters degree (MA or MS),No
+89097,2010.02.19,2010.02.19,en,,,,FY934627,,1973,Female,White Caucasian,,Yes,,,,,,Texas,,Democrat,Somewhat liberal,,,Yes,Yes,Yes,,PhD MD MBA Law degree,No
+89098,2010.02.19,2010.02.19,en,,,,FY981143,,1987,Male,Latino or Hispanic,,Yes,,,,,,Texas,,Democrat,Slightly liberal,,,Yes,No,Yes,,Four year college degree (BA or BS),No
+89099,2010.02.19,2010.02.19,en,,,,FY931722,,1973,Male,#NAME?,,Yes,,,,,,Washington,"",Democrat,Somewhat liberal,,,Yes,No,No,,PhD MD MBA Law degree,No
+89100,2010.02.19,2010.02.19,en,,,,FY989878,,1961,Male,White Caucasian,,No,No,9,,,,,"",Republican,Slightly conservative,,,Yes,No,No,,PhD MD MBA Law degree,No
+89103,2010.02.19,2010.02.19,en,,,,FY925412,,1978,Male,White Caucasian,,Yes,,,,,,Michigan,,Democrat,Somewhat liberal,,,Yes,No,Yes,,Masters degree (MA or MS),No
+89104,2010.02.19,2010.02.19,en,,,,FY962928,,1940,Female,White Caucasian,,Yes,,,,,,California,"",Democrat,Somewhat liberal,,,Yes,No,No,,PhD MD MBA Law degree,No
+89105,2010.02.19,2010.02.19,en,,,,FY983931,,1933,Male,White Caucasian,,Yes,,,,,,North Carolina,,Independent,Somewhat conservative,,,Yes,Yes,No,,PhD MD MBA Law degree,No
+89106,2010.02.19,2010.02.19,en,,,,FY930667,,1931,Female,White Caucasian,,Yes,,,,,,California,,Republican,Somewhat conservative,,,No,Yes,Yes,,Four year college degree (BA or BS),No
+89107,2010.02.19,2010.02.19,en,,,,FY939746,,1935,Female,White Caucasian,,Yes,,,,,,Washington,,Independent,Somewhat liberal,,,Yes,Yes,Yes,,Masters degree (MA or MS),No
+89108,2010.02.19,2010.02.19,en,,,,FY975672,,1941,Male,White Caucasian,,Yes,,,,,,Pennsylvania,,Democrat,Very liberal,,,Yes,Yes,Yes,,PhD MD MBA Law degree,Yes
+89109,2010.02.19,2010.02.19,en,,,,FY984450,,1952,Male,Latino or Hispanic,,No,No,2,,,,,"",Democrat,Very liberal,,,Yes,Yes,Yes,,Masters degree (MA or MS),No
+89111,2010.02.19,2010.02.19,en,,,,FY903420,,1956,Female,Latino or Hispanic,,Yes,,,,,,Illinois,,Republican,Slightly conservative,,,Yes,Yes,Yes,,PhD MD MBA Law degree,No
+89116,2010.02.19,2010.02.19,en,,,,FY932805,,1977,Male,White Caucasian,,Yes,,,,,,New Jersey,,Democrat,Somewhat liberal,,,No,No,No,,Masters degree (MA or MS),Yes
+89117,2010.02.19,2010.02.19,en,,,,FY912496,,1984,Female,American Indian Native American,,Yes,,,,,,Washington,,Democrat,Somewhat liberal,,,No,Yes,Yes,,Four year college degree (BA or BS),No
+89119,2010.02.19,2010.02.19,en,,,,FY975991,,1951,Male,White Caucasian,,No,No,2,,,,,,Independent,Very liberal,,"",Yes,Yes,No,,PhD MD MBA Law degree,No
+89120,2010.02.19,2010.02.19,en,,,,FY999356,,1951,Female,White Caucasian,,Yes,,,,,,Massachusetts,,Democrat,Very liberal,,,Yes,Yes,Yes,,Masters degree (MA or MS),No
+89121,2010.02.19,2010.02.19,en,,,,FY980628,,1961,Female,White Caucasian,,Yes,,,,,,California,,Democrat,Slightly conservative,,,Yes,Yes,Yes,,Four year college degree (BA or BS),No
+89122,2010.02.19,2010.02.19,en,,,,FY977808,,1934,Male,White Caucasian,,Yes,,,,,,California,,Democrat,Somewhat liberal,,,Yes,Yes,No,,PhD MD MBA Law degree,No
+89125,2010.02.19,2010.02.19,en,,,,FY984023,,1970,Male,White Caucasian,,Yes,,,,,,California,,Democrat,Slightly liberal,,,Yes,Yes,No,,Masters degree (MA or MS),No
+89126,2010.02.19,2010.02.19,en,,,,FY932524,,1982,Female,#NAME?,,Yes,,,,,,Texas,,Democrat,Somewhat liberal,,,No,Yes,Yes,,Masters degree (MA or MS),No
+89127,2010.02.19,2010.02.19,en,,,,FY964756,,1945,Male,White Caucasian,,Yes,,,,,,California,,Democrat,Somewhat liberal,,,Yes,Yes,Yes,,PhD MD MBA Law degree,No
+89128,2010.02.19,2010.02.19,en,,,,FY940120,,1932,Male,White Caucasian,,Yes,,,,,,Pennsylvania,"",Independent,Somewhat liberal,,,Yes,No,No,,Four year college degree (BA or BS),No
+89131,2010.02.19,2010.02.19,en,,,,FY934103,,1961,Female,White Caucasian,,Yes,,,,,,Texas,,Democrat,Very liberal,,,No,Yes,Yes,,PhD MD MBA Law degree,Yes
+89132,2010.02.19,2010.02.19,en,,,,FY942923,,1957,Female,White Caucasian,,Yes,,,,,,Missouri,,Democrat,Very liberal,,,Yes,Yes,Yes,,PhD MD MBA Law degree,No
+89133,2010.02.19,2010.02.19,en,,,,FY936182,,1942,Female,White Caucasian,,Yes,,,,,,California,,Independent,Somewhat liberal,,,Yes,Yes,Yes,,PhD MD MBA Law degree,Yes
+89134,2010.02.19,2010.02.19,en,,,,FY987146,,1967,Female,White Caucasian,,No,No,9,,,,,"",Democrat,Somewhat liberal,,,Yes,Yes,Yes,,PhD MD MBA Law degree,No
+89135,2010.02.19,2010.02.19,en,,,,FY920739,,1969,Female,#NAME?,"",Yes,,,,,,Minnesota,,Democrat,Very liberal,,,Yes,Yes,Yes,,PhD MD MBA Law degree,No
+89136,2010.02.19,2010.02.19,en,,,,FY984755,,1963,Female,Unknown,,Yes,,,,,,Texas,,Democrat,Somewhat liberal,,,Yes,Yes,No,,PhD MD MBA Law degree,No
+89138,2010.02.19,2010.02.19,en,,,,FY981874,,1970,Female,White Caucasian,,Yes,,,,,,Texas,,Independent,Neither liberal nor conservative,,,Yes,Yes,No,,PhD MD MBA Law degree,No
+89139,2010.02.19,2010.02.19,en,,,,FY951357,,1935,Male,White Caucasian,,Yes,,,,,,Ohio,,Democrat,Somewhat liberal,,,Yes,Yes,No,,PhD MD MBA Law degree,No
+89140,2010.02.19,2010.02.19,en,,,,FY919865,,1977,Female,Asian or Pacific Islander,,Yes,,,,,,California,,Republican,Somewhat liberal,,,No,Yes,Yes,,Masters degree (MA or MS),No
+89141,2010.02.19,2010.02.19,en,,,,FY978592,,1953,Male,White Caucasian,,Yes,,,,,,Massachusetts,,Democrat,Somewhat liberal,,,Yes,No,No,,PhD MD MBA Law degree,No
+89142,2010.02.19,2010.02.19,en,,,,FY928643,,1935,Male,White Caucasian,,Yes,,,,,,Louisiana,,Independent,Neither liberal nor conservative,,,Yes,Yes,No,,Four year college degree (BA or BS),Yes
+89145,2010.02.19,2010.02.19,en,,,,FY951690,,1979,Female,Asian or Pacific Islander,,No,Yes,19,,,,,,Democrat,Very liberal,,,Yes,No,No,,PhD MD MBA Law degree,No
+89146,2010.02.19,2010.02.19,en,,,,FY930798,,1964,Male,Latino or Hispanic,,No,No,1,,,,,,Democrat,Slightly liberal,,,Yes,No,Yes,,PhD MD MBA Law degree,No
+89147,2010.02.19,2010.02.19,en,,,,FY992972,,1969,Female,#NAME?,,Yes,,,,,,Wyoming,,Independent,Very liberal,,,Yes,Yes,Yes,,Masters degree (MA or MS),No
+89148,2010.02.19,2010.02.19,en,,,,FY986339,,1962,Male,White Caucasian,,No,Yes,21,,,,,,Independent,Neither liberal nor conservative,,,Yes,No,No,,PhD MD MBA Law degree,No
+89151,2010.02.19,2010.02.19,en,,,,FY938583,,1935,Male,White Caucasian,,Yes,,,,,,California,,Democrat,Very liberal,,,Yes,Yes,Yes,,Masters degree (MA or MS),No
+89152,2010.02.19,2010.02.19,en,,,,FY967194,,1976,Female,White Caucasian,,No,Yes,25,,,,,,Democrat,Very liberal,,,No,No,No,,Masters degree (MA or MS),No
+89153,2010.02.19,2010.02.19,en,,,,FY934252,,1943,Female,White Caucasian,,Yes,,,,,,Tennessee,,Independent,Slightly conservative,,,Yes,Yes,Yes,,Masters degree (MA or MS),Yes
+89154,2010.02.19,2010.02.19,en,,,,FY913877,,1954,Female,White Caucasian,,Yes,,,,,,Illinois,,Democrat,Very liberal,,,Yes,Yes,No,,PhD MD MBA Law degree,Yes
+89155,2010.02.19,2010.02.19,en,,,,FY990769,,1955,Female,White Caucasian,,Yes,,,,,,California,,Democrat,Somewhat liberal,,,Yes,Yes,No,,Masters degree (MA or MS),No
+89156,2010.02.19,2010.02.19,en,,,,FY986267,,1971,Female,Latino or Hispanic,,Yes,,,,,,California,,Democrat,Somewhat liberal,,,Yes,No,Yes,,Four year college degree (BA or BS),No
+89157,2010.02.19,2010.02.19,en,,,,FY963493,,1981,Female,White Caucasian,,Yes,,,,,,California,,Other,Neither liberal nor conservative,,,No,Yes,Yes,,PhD MD MBA Law degree,No
+89159,2010.02.19,2010.02.19,en,,,,FY909882,,1978,Female,Black or African American,,Yes,,,,,,Maryland,,Democrat,Very liberal,,"",Yes,Yes,Yes,,PhD MD MBA Law degree,No
+89160,2010.02.19,2010.02.19,en,,,,FY983557,,1976,Female,,,No,No,5,,,,,"",Other,Somewhat liberal,,,Yes,No,No,,PhD MD MBA Law degree,No
+89166,2010.02.19,2010.02.19,en,,,,FY972164,,1933,Female,White Caucasian,,Yes,,,,,,Colorado,,Independent,Neither liberal nor conservative,,,Yes,Yes,No,,Masters degree (MA or MS),No
+89170,2010.02.19,2010.02.19,en,,,,FY925604,,1974,Male,Asian or Pacific Islander,,Yes,,,,,,Missouri,,Democrat,Very liberal,,,Yes,Yes,Yes,,Masters degree (MA or MS),No
+89172,2010.02.19,2010.02.19,en,,,,FY909191,,1928,Male,White Caucasian,,Yes,,,,,,California,,Democrat,Somewhat liberal,,,Yes,Yes,No,,PhD MD MBA Law degree,No
+89173,2010.02.19,2010.02.19,en,,,,FY975326,,1952,Female,White Caucasian,,Yes,,,,,,Massachusetts,,Independent,Very conservative,,,No,Yes,Yes,,PhD MD MBA Law degree,No
+89174,2010.02.19,2010.02.19,en,,,,FY988496,,1961,Female,White Caucasian,,No,No,4,"",,,,"",Other,Very liberal,,,No,Yes,No,,PhD MD MBA Law degree,No
+89175,2010.02.19,2010.02.19,en,,,,FY935310,,1982,Female,Asian or Pacific Islander,,No,Yes,,,,,,,Independent,Slightly liberal,,,No,No,Yes,,Four year college degree (BA or BS),
+89178,2010.02.19,2010.02.19,en,,,,FY909304,,1964,Male,White Caucasian,,Yes,,,,,,Illinois,"",Democrat,Somewhat liberal,,"",Yes,No,No,,PhD MD MBA Law degree,No
+89179,2010.02.19,2010.02.19,en,,,,FY936297,,1947,Male,White Caucasian,,Yes,,,,,,Oklahoma,,Republican,Somewhat conservative,,,Yes,No,Yes,,Four year college degree (BA or BS),Yes
+89182,2010.02.19,2010.02.19,en,,,,FY997962,,1957,Female,White Caucasian,,Yes,,,,,,Arizona,,Democrat,Very liberal,,,Yes,No,No,,Masters degree (MA or MS),Yes
+89183,2010.02.19,2010.02.20,en,,,,FY943371,,1932,Male,Latino or Hispanic,,No,No,1,,,,,,Independent,Neither liberal nor conservative,,,No,Yes,No,,Masters degree (MA or MS),No
+89184,2010.02.19,2010.02.19,en,,,,FY952450,,1962,Male,White Caucasian,,Yes,,,,,,District of Columbia,,Democrat,Somewhat liberal,,,Yes,Yes,Yes,,Masters degree (MA or MS),No
+89185,2010.02.19,2010.02.19,en,,,,FY902434,,1953,Male,White Caucasian,,Yes,,,,,,New York,,Democrat,Neither liberal nor conservative,,,Yes,Yes,No,,PhD MD MBA Law degree,No
+89187,2010.02.19,2010.02.19,en,,,,FY938899,,1928,Female,White Caucasian,,Yes,,,,,,New York,,Democrat,Somewhat liberal,,,Yes,No,No,,Masters degree (MA or MS),No
+89188,2010.02.19,2010.02.19,en,,,,FY928066,,1945,Male,White Caucasian,,Yes,,,,,,California,,Independent,Somewhat conservative,,,Yes,No,No,,Masters degree (MA or MS),No
+89190,2010.02.19,2010.02.19,en,,,,FY922941,,1972,Female,Asian or Pacific Islander,,Yes,,,,,,Missouri,,Republican,Very conservative,,,Yes,No,Yes,,Four year college degree (BA or BS),No
+89191,2010.02.19,2010.02.19,en,,,,FY986760,,1950,Female,White Caucasian,,Yes,,,,,,California,,Democrat,Somewhat liberal,,,No,No,No,,PhD MD MBA Law degree,Yes
+89197,2010.02.19,2010.02.19,en,,,,FY977557,,1965,Female,White Caucasian,,Yes,,,,,,District of Columbia,,Democrat,Very liberal,,,No,Yes,Yes,,PhD MD MBA Law degree,No
+89198,2010.02.19,2010.02.19,en,,,,FY985277,,1965,Male,Asian or Pacific Islander,,Yes,,,,,,Hawaii,,Democrat,Slightly liberal,,,No,Yes,Yes,,Masters degree (MA or MS),No
+89200,2010.02.19,2010.02.19,en,,,,FY932109,,1954,Female,White Caucasian,,Yes,,,,,,New Mexico,,Democrat,Very liberal,,,Yes,Yes,Yes,,PhD MD MBA Law degree,Yes
+89202,2010.02.19,2010.02.19,en,,,,FY929850,,1976,Male,White Caucasian,,No,No,2,,,,,,Other,Somewhat liberal,,,Yes,No,No,,Masters degree (MA or MS),No
+89203,2010.02.19,2010.02.19,en,,,,FY955871,,1953,Male,White Caucasian,,Yes,,,,,,Illinois,,Democrat,Very liberal,,,Yes,Yes,Yes,,Four year college degree (BA or BS),No
+89204,2010.02.19,2010.02.19,en,,,,FY942833,,1951,Female,Asian or Pacific Islander,,Yes,,,,,,Hawaii,,Democrat,Very liberal,,,Yes,Yes,Yes,,Masters degree (MA or MS),No
+89207,2010.02.19,2010.02.19,en,,,,FY947638,,1957,Male,White Caucasian,,Yes,,,,,,Colorado,,Republican,Somewhat conservative,,,Yes,Yes,Yes,,Four year college degree (BA or BS),No
+89209,2010.02.20,2010.02.20,en,,,,FY958621,,1962,Female,White Caucasian,,Yes,,,,,,Oklahoma,,Democrat,Somewhat liberal,,,Yes,No,Yes,,PhD MD MBA Law degree,Yes
+89213,2010.02.20,2010.02.20,en,,,,FY907545,,1943,Female,White Caucasian,,Yes,,,,,,Missouri,,Democrat,Somewhat liberal,,,Yes,No,No,,Masters degree (MA or MS),No
+89214,2010.02.20,2010.02.20,en,,,,FY906114,,1951,Male,White Caucasian,,No,No,1,,,,,,Republican,Slightly conservative,,,Yes,No,No,,PhD MD MBA Law degree,No
+89216,2010.02.20,2010.02.20,en,,,,FY943768,,1953,Female,White Caucasian,,Yes,,,,,,California,"",Democrat,Somewhat liberal,,,Yes,Yes,Yes,,Masters degree (MA or MS),No
+89218,2010.02.20,2010.02.20,en,,,,FY904566,,1967,Female,White Caucasian,,Yes,,,,,,California,"",Democrat,Slightly conservative,,,Yes,No,Yes,,PhD MD MBA Law degree,No
+89220,2010.02.20,2010.02.20,en,,,,FY911306,,1964,Male,White Caucasian,,No,No,4,,,,,,Independent,Somewhat liberal,,,Yes,No,No,,PhD MD MBA Law degree,No
+89222,2010.02.20,2010.02.20,en,,,,FY998415,,1933,Female,White Caucasian,,Yes,,,,,,Ohio,,Democrat,Very liberal,,,Yes,Yes,Yes,,PhD MD MBA Law degree,No
+89224,2010.02.20,2010.02.20,en,,,,FY965446,,1969,Male,#NAME?,,Yes,,,,,,Alaska,,Democrat,Somewhat liberal,,,Yes,No,No,,Masters degree (MA or MS),No
+89225,2010.02.20,2010.02.20,en,,,,FY932638,,1933,Female,White Caucasian,,Yes,,,,,,California,,Democrat,Very liberal,,,No,No,Yes,,Four year college degree (BA or BS),Yes
+89226,2010.02.20,2010.02.20,en,,,,FY930405,,1970,Female,White Caucasian,,No,No,11,,,,,"",Democrat,Somewhat liberal,,,No,No,No,,Masters degree (MA or MS),No
+89227,2010.02.20,2010.02.20,en,,,,FY909832,,1929,Female,White Caucasian,,Yes,,,,,,California,,Democrat,Somewhat liberal,,,Yes,No,No,,Four year college degree (BA or BS),No
+89230,2010.02.20,2010.02.20,en,,,,FY929403,,1936,Female,White Caucasian,,Yes,,,,,,Michigan,,Independent,Neither liberal nor conservative,,,No,Yes,Yes,,Four year college degree (BA or BS),Yes
+89232,2010.02.20,2010.02.20,en,,,,FY952914,,1950,Male,White Caucasian,,Yes,,,,,,Oregon,,Democrat,Somewhat liberal,,,Yes,Yes,Yes,,Masters degree (MA or MS),No
+89233,2010.02.20,2010.02.20,en,,,,FY935544,,1954,Female,Latino or Hispanic,,No,Yes,54,,,,,,Independent,,,,Yes,Yes,Yes,,PhD MD MBA Law degree,No
+89237,2010.02.20,2010.02.20,en,,,,FY980492,,1953,Male,White Caucasian,,Yes,,,,,,California,,Democrat,Somewhat liberal,,,Yes,Yes,Yes,,PhD MD MBA Law degree,No
+89238,2010.02.20,2010.02.20,en,,,,FY931072,,1968,Female,Black or African American,,Yes,,,,,,Texas,"",Democrat,Very liberal,,,Yes,Yes,No,,PhD MD MBA Law degree,No
+89239,2010.02.20,2010.02.20,en,,,,FY989891,,1942,Female,White Caucasian,,Yes,,,,,,Missouri,,Democrat,Somewhat liberal,,,Yes,Yes,No,,Masters degree (MA or MS),Yes
+89243,2010.02.20,2010.02.20,en,,,,FY959155,,1922,Female,White Caucasian,,Yes,,,,,,Wyoming,,Republican,Very liberal,,,Yes,Yes,No,,Masters degree (MA or MS),No
+89244,2010.02.20,2010.02.20,en,,,,FY913551,,1948,Female,White Caucasian,,Yes,,,,,,New York,,Democrat,Somewhat liberal,,,No,Yes,No,,PhD MD MBA Law degree,No
+89246,2010.02.20,2010.02.20,en,,,,FY954379,,1975,Female,Latino or Hispanic,,Yes,,,,,,New York,,Independent,Somewhat liberal,,,Yes,Yes,Yes,,Four year college degree (BA or BS),No
+89248,2010.02.20,2010.02.20,en,,,,FY956725,,1950,Female,White Caucasian,,Yes,,,,,,Illinois,,Democrat,Very liberal,,,Yes,Yes,Yes,"",Masters degree (MA or MS),No
+89253,2010.02.20,2010.02.20,en,,,,FY950313,,1959,Male,Latino or Hispanic,,No,No,8,,,,,"",Democrat,Very liberal,,,Yes,No,Yes,"",Four year college degree (BA or BS),No
+89255,2010.02.20,2010.02.20,en,,,,FY901712,,1980,Female,White Caucasian,,Yes,,,,,,Rhode Island,,Independent,Somewhat liberal,,,Yes,Yes,Yes,,Four year college degree (BA or BS),No
+89256,2010.02.20,2010.02.20,en,,,,FY921515,,1953,Female,White Caucasian,,Yes,,,,,,Illinois,,Democrat,Somewhat liberal,,,Yes,No,No,,PhD MD MBA Law degree,Yes
+89258,2010.02.20,2010.02.20,en,,,,FY936458,,1969,Male,White Caucasian,,Yes,,,,,,New York,"",Independent,Slightly liberal,,"",Yes,No,No,,PhD MD MBA Law degree,No
+89259,2010.02.20,2010.02.20,en,,,,FY989740,,1975,Female,White Caucasian,,Yes,,,,,,California,,Democrat,Very liberal,,,No,Yes,Yes,"",PhD MD MBA Law degree,No
+89263,2010.02.20,2010.02.20,en,,,,FY970686,,1980,Female,White Caucasian,,No,No,13,,,,,,Democrat,Somewhat liberal,,,No,No,Yes,,PhD MD MBA Law degree,No
+89267,2010.02.20,2010.02.20,en,,,,FY970694,,1956,Female,Asian or Pacific Islander,,Yes,,,,,"",District of Columbia,,Democrat,Very liberal,,,Yes,Yes,Yes,,Four year college degree (BA or BS),No
+89291,2010.02.20,2010.02.20,en,,,,FY974946,,1966,Female,Asian or Pacific Islander,,Yes,,,,,,California,,Independent,Neither liberal nor conservative,,,No,Yes,Yes,,PhD MD MBA Law degree,No
+89293,2010.02.20,2010.02.20,en,,,,FY973615,,1982,Female,White Caucasian,,Yes,,,,,,District of Columbia,,Republican,Slightly conservative,,,Yes,Yes,Yes,,Four year college degree (BA or BS),No
+89298,2010.02.20,2010.02.20,en,,,,FY978771,,1942,Female,White Caucasian,,Yes,,,,,,Kansas,,Democrat,Very liberal,,,Yes,No,Yes,,Masters degree (MA or MS),Yes
+89302,2010.02.20,2010.02.20,en,,,,FY963250,,1947,Female,White Caucasian,,Yes,,,,,,Indiana,,Democrat,Somewhat liberal,,,Yes,Yes,Yes,,PhD MD MBA Law degree,Yes
+89304,2010.02.20,2010.02.21,en,,,,FY968647,,1971,Female,White Caucasian,,Yes,,,,,,District of Columbia,,Democrat,Somewhat liberal,,,Yes,Yes,Yes,,Masters degree (MA or MS),No
+89305,2010.02.21,2010.02.21,en,,,,FY980709,,1969,Female,Black or African American,,Yes,,,,,,California,,Democrat,Somewhat liberal,,,Yes,Yes,Yes,,Masters degree (MA or MS),No
+89308,2010.02.21,2010.02.21,en,,,,FY969713,,1979,Female,Asian or Pacific Islander,,No,No,4,,,,,,Democrat,Somewhat liberal,,,Yes,Yes,No,,PhD MD MBA Law degree,No
+89312,2010.02.21,,en,,,,FY942218,,,,,,,,,,,,,,,,,,,,,,,
+89315,2010.02.21,2010.02.21,en,,,,FY936590,,1941,Male,White Caucasian,,Yes,,,,,,Illinois,,Independent,Somewhat liberal,,,Yes,No,No,,PhD MD MBA Law degree,No
+89318,2010.02.21,2010.02.21,en,,,,FY935849,,1947,Female,White Caucasian,,Yes,,,,,,California,"",Other,Somewhat conservative,,,No,No,Yes,,Four year college degree (BA or BS),No
+89321,2010.02.21,2010.02.21,en,,,,FY916205,,1952,Female,White Caucasian,,Yes,,,,,,California,,Democrat,Somewhat liberal,,,Yes,Yes,Yes,,Masters degree (MA or MS),No
+89323,2010.02.21,2010.02.21,en,,,,FY999642,,1949,Female,Latino or Hispanic,,No,Yes,49,,,,,,Independent,Slightly liberal,,,Yes,Yes,No,,Masters degree (MA or MS),No
+89324,2010.02.21,2010.02.21,en,,,,FY942980,,1963,Female,White Caucasian,,Yes,,,,,,California,,Independent,,,,Yes,Yes,No,,PhD MD MBA Law degree,No
+89327,2010.02.21,2010.02.21,en,,,,FY959655,,1940,Male,White Caucasian,,Yes,,,,,,Kansas,,Independent,Somewhat liberal,,,Yes,Yes,No,,Four year college degree (BA or BS),No
+89329,2010.02.21,2010.02.21,en,,,,FY961823,,1972,Female,White Caucasian,,Yes,,,,,,Washington,"",Democrat,Very liberal,,,Yes,No,No,,Masters degree (MA or MS),No
+89330,2010.02.21,2010.02.21,en,,,,FY900891,,1967,Male,White Caucasian,,Yes,,,,,,New York,,Democrat,Somewhat liberal,,,Yes,Yes,Yes,,Masters degree (MA or MS),No
+89332,2010.02.21,2010.02.21,en,,,,FY926875,,1940,Female,White Caucasian,,Yes,,,,,,California,,Democrat,Somewhat liberal,,,Yes,Yes,Yes,,PhD MD MBA Law degree,No
+89333,2010.02.21,2010.02.21,en,,,,FY933838,,1947,Male,White Caucasian,,Yes,,,,,,Delaware,,Independent,Somewhat liberal,,,Yes,Yes,Yes,,PhD MD MBA Law degree,Yes
+89340,2010.02.21,2010.02.21,en,,,,FY991879,,1955,Female,Asian or Pacific Islander,,Yes,,,,,,California,,Democrat,Somewhat liberal,,,Yes,Yes,No,,Masters degree (MA or MS),No
+89369,2010.02.21,2010.02.21,en,,,,FY994814,,1975,Female,Asian or Pacific Islander,,Yes,,,,,,Florida,,Democrat,Somewhat liberal,,,Yes,Yes,Yes,,PhD MD MBA Law degree,No
+89388,2010.02.21,2010.02.21,en,,,,FY938136,,1967,Female,White Caucasian,,Yes,,,,,,Nebraska,,Independent,Somewhat liberal,,,Yes,Yes,No,,Four year college degree (BA or BS),No
+89392,2010.02.21,2010.02.21,en,,,,FY978104,,1935,Male,White Caucasian,,No,Yes,60,,,,,,Independent,Slightly conservative,,,Yes,No,Yes,,Masters degree (MA or MS),Yes
+89413,2010.02.21,2010.02.21,en,,,,FY916002,,1949,Male,White Caucasian,,Yes,,,,,,Oklahoma,,Democrat,Slightly liberal,,,Yes,No,Yes,,Masters degree (MA or MS),No
+89414,2010.02.21,2010.02.21,en,,,,FY940510,,1938,Female,White Caucasian,,Yes,,,,,,California,,Democrat,Slightly liberal,,,Yes,No,No,,Masters degree (MA or MS),No
+89433,2010.02.21,,en,,,,FY929892,,1956,Female,White Caucasian,,Yes,,,,,,Rhode Island,,,,,,,,,,,
+89439,2010.02.21,2010.02.21,en,,,,FY968175,,1958,Female,White Caucasian,,Yes,,,,,,Illinois,,Democrat,Somewhat liberal,,"",Yes,No,No,,PhD MD MBA Law degree,No
+89440,2010.02.21,2010.02.21,en,,,,FY977638,,1955,Female,White Caucasian,,Yes,,,,,,New York,,Independent,Somewhat liberal,,,Yes,No,No,,Masters degree (MA or MS),No
+89446,2010.02.21,2010.02.21,en,,,,FY902812,,1972,Female,White Caucasian,,Yes,,,,,,Pennsylvania,,Independent,Somewhat liberal,,,Yes,Yes,Yes,,Masters degree (MA or MS),Yes
+89447,2010.02.21,2010.02.21,en,,,,FY904068,,1974,Male,Latino or Hispanic,,No,No,2,,,,,,Other,Slightly liberal,,,Yes,No,No,,PhD MD MBA Law degree,No
+89452,2010.02.21,2010.02.21,en,FY904294,,,,,1942,Male,White Caucasian,,Yes,,,,,,New York,,Independent,Somewhat conservative,,,Yes,Yes,Yes,,PhD MD MBA Law degree,No
+89453,2010.02.21,2010.02.21,en,,,,FY904554,,1958,Male,White Caucasian,,Yes,,,,,,California,,,,,,Yes,No,Yes,,PhD MD MBA Law degree,No
+89455,2010.02.21,2010.02.21,en,,,,FY967614,,1957,Female,White Caucasian,,Yes,,,,,,Kansas,,Independent,Slightly liberal,,,No,Yes,Yes,,Four year college degree (BA or BS),Yes
+89462,2010.02.21,2010.02.21,en,,,,FY930782,,1980,Male,White Caucasian,,Yes,,,,,,Indiana,,Independent,Neither liberal nor conservative,,,Yes,No,Yes,,PhD MD MBA Law degree,No
+89474,2010.02.22,2010.02.22,en,,,,FY915590,,1987,Male,Asian or Pacific Islander,,Yes,,,,,,California,,Independent,Slightly liberal,,"",Yes,Yes,Yes,,Four year college degree (BA or BS),No
+89481,2010.02.22,2010.02.22,en,,,,FY952734,,1957,Male,White Caucasian,,Yes,,,,,,New Jersey,,Republican,Slightly conservative,,,No,Yes,Yes,,PhD MD MBA Law degree,Yes
+89492,2010.02.22,2010.02.22,en,,,,FY910018,,1957,Female,White Caucasian,,Yes,,,,,,Iowa,,Independent,Neither liberal nor conservative,,,Yes,No,No,,PhD MD MBA Law degree,No
+89497,2010.02.22,2010.02.22,en,,,,FY963115,,1962,Female,Black or African American,,Yes,,,,,,Wisconsin,,Democrat,Slightly liberal,,,Yes,Yes,Yes,,PhD MD MBA Law degree,No
+89502,2010.02.22,2010.02.22,en,,,,FY999589,,1958,Female,White Caucasian,,Yes,,,,,,California,,Independent,Somewhat liberal,,,Yes,No,No,,Masters degree (MA or MS),No
+89512,2010.02.22,2010.02.22,en,,,,FY931774,,1957,Female,White Caucasian,,Yes,,,,,,California,,Democrat,Somewhat liberal,,,No,Yes,Yes,,Masters degree (MA or MS),No
+89514,2010.02.22,2010.02.22,en,,,,FY983289,,1985,Female,White Caucasian,,Yes,,,,,,New York,,Democrat,Slightly liberal,,,Yes,Yes,Yes,,Four year college degree (BA or BS),Yes
+89516,2010.02.22,2010.02.22,en,,,,FY909875,,1971,Female,White Caucasian,,Yes,,,,,,Ohio,,Independent,Slightly liberal,,,Yes,Yes,No,,PhD MD MBA Law degree,No
+89523,2010.02.22,2010.02.22,en,,,,FY962441,,1971,Female,White Caucasian,,Yes,,,,,,Michigan,,Independent,Somewhat liberal,,"",Yes,No,Yes,,Masters degree (MA or MS),Yes
+89526,2010.02.22,2010.02.22,en,,,,FY994777,,1944,Female,White Caucasian,,Yes,,,,,,Wisconsin,,Democrat,Very liberal,,"",Yes,Yes,Yes,,Masters degree (MA or MS),No
+89536,2010.02.22,2010.02.22,en,,,,FY985587,,1972,Female,Asian or Pacific Islander,,No,Yes,29,,,,,,Democrat,Very liberal,,,No,Yes,Yes,,PhD MD MBA Law degree,No
+89538,2010.02.22,2010.02.22,en,,,,FY906326,,1945,Female,White Caucasian,,Yes,,,,,,Georgia,,Democrat,Somewhat liberal,,,No,Yes,Yes,,Masters degree (MA or MS),Yes
+89539,2010.02.22,2010.02.22,en,,,,FY970272,,1948,Female,#NAME?,"",Yes,,,,,,California,,Democrat,Very liberal,,,Yes,Yes,Yes,,PhD MD MBA Law degree,No
+89546,2010.02.22,2010.02.22,en,,,,FY956488,,1941,Female,White Caucasian,,Yes,,,,,,Nebraska,,Republican,Slightly conservative,,,Yes,Yes,No,,Masters degree (MA or MS),No
+89554,2010.02.22,2010.02.22,en,,,,FY921017,,1958,Female,White Caucasian,,Yes,,,,,,Missouri,,Independent,Slightly conservative,,,Yes,Yes,Yes,,PhD MD MBA Law degree,Yes
+89556,2010.02.22,2010.02.22,en,,,,FY936879,,1953,Male,White Caucasian,,Yes,,,,,,California,,Democrat,Somewhat liberal,,,Yes,Yes,Yes,,Masters degree (MA or MS),Yes
+89568,2010.02.22,2010.02.22,en,,,,FY908381,,1971,Female,White Caucasian,,Yes,,,,,,Kentucky,,Democrat,Slightly liberal,,,No,Yes,Yes,,Masters degree (MA or MS),Yes
+89572,2010.02.22,2010.02.22,en,,,,FY933075,,1954,Male,White Caucasian,,Yes,,,,,,Illinois,,Democrat,Somewhat liberal,,,Yes,Yes,Yes,,PhD MD MBA Law degree,No
+89579,2010.02.22,2010.02.22,en,,,,FY986393,,1971,Female,White Caucasian,,Yes,,,,,,Texas,,Independent,Slightly conservative,,,Yes,No,Yes,"",PhD MD MBA Law degree,Yes
+89580,2010.02.22,2010.02.22,en,,,,FY945081,,1979,Female,White Caucasian,,Yes,,,,,,Michigan,,Independent,Neither liberal nor conservative,,,Yes,Yes,Yes,,PhD MD MBA Law degree,No
+89582,2010.02.22,2010.02.22,en,,,,FY923992,,1953,Female,White Caucasian,,Yes,,,,,,New York,,Democrat,Very liberal,,,Yes,Yes,Yes,,Four year college degree (BA or BS),No
+89595,2010.02.22,2010.02.22,en,,,,FY963797,,1950,Female,White Caucasian,,Yes,,,,,,California,,Democrat,Slightly conservative,,,Yes,Yes,No,,Four year college degree (BA or BS),No
+89597,2010.02.22,2010.02.22,en,,,,FY982382,,1937,Male,White Caucasian,,Yes,,,,,,Washington,,Republican,Slightly conservative,,,Yes,Yes,No,,PhD MD MBA Law degree,No
+89607,2010.02.23,2010.02.23,en,,,,FY967303,,1946,Male,White Caucasian,,No,No,3,,,,,"",Democrat,Somewhat liberal,,,Yes,Yes,No,,Masters degree (MA or MS),No
+89608,2010.02.23,2010.02.23,en,,,,FY989322,,1950,Male,White Caucasian,,No,No,1,,,,,,Independent,Slightly conservative,,,Yes,No,No,,Masters degree (MA or MS),No
+89611,2010.02.23,2010.02.23,en,,,,FY961004,,1978,Female,White Caucasian,,No,No,6,,,,,"",Other,Somewhat conservative,,,No,Yes,Yes,,PhD MD MBA Law degree,No
+89612,2010.02.23,2010.02.23,en,,,,FY956293,,1968,Female,White Caucasian,,Yes,,,,,,California,,Democrat,Somewhat liberal,,,No,Yes,No,,PhD MD MBA Law degree,No
+89619,2010.02.23,2010.02.23,en,,,,FY945516,,1959,Female,White Caucasian,,Yes,,,,,,New York,,Democrat,Very liberal,,,Yes,Yes,Yes,,PhD MD MBA Law degree,No
+89622,2010.02.23,2010.02.23,en,,,,FY966177,,1943,Male,White Caucasian,,Yes,,,,,,Kansas,,Democrat,Somewhat liberal,,,Yes,Yes,Yes,,PhD MD MBA Law degree,No
+89639,2010.02.23,2010.02.23,en,,,,FY914694,,1943,Male,Latino or Hispanic,,No,No,2,,,,,"",Democrat,Somewhat liberal,,,Yes,No,No,,PhD MD MBA Law degree,No
+89671,2010.02.23,2010.02.23,en,,,,FY984142,,1956,Female,White Caucasian,,Yes,,,,,,New York,,Independent,Somewhat liberal,,,Yes,Yes,Yes,,Four year college degree (BA or BS),No
+89672,2010.02.23,2010.02.23,en,,,,FY997427,,1954,Male,White Caucasian,,Yes,,,,,,Colorado,,Independent,Neither liberal nor conservative,,,Yes,Yes,Yes,,PhD MD MBA Law degree,Yes
+89673,2010.02.23,2010.02.23,en,,,,FY996161,,1979,Female,Asian or Pacific Islander,,No,No,5,,,,,,Other,Somewhat liberal,,,No,No,No,,Masters degree (MA or MS),No
+89674,2010.02.23,2010.02.23,en,,,,FY961481,,1963,Male,#NAME?,"",Yes,,,,,,California,,Democrat,Somewhat liberal,,,Yes,Yes,Yes,,Masters degree (MA or MS),Yes
+89675,2010.02.23,2010.02.23,en,,,,FY949764,,1940,Female,White Caucasian,,Yes,,,,,,South Dakota,,Independent,Very liberal,,,Yes,No,No,,Masters degree (MA or MS),No
+89676,2010.02.23,2010.02.23,en,,,,FY945209,,1949,Female,White Caucasian,,Yes,,,,,,New Jersey,,Democrat,Very liberal,,,Yes,No,Yes,,PhD MD MBA Law degree,No
+89677,2010.02.23,2010.02.23,en,,,,FY977340,,1970,Female,White Caucasian,,Yes,,,,,,Montana,,Democrat,Very liberal,,,Yes,No,No,,PhD MD MBA Law degree,Yes
+89678,2010.02.23,2010.02.23,en,,,,FY967371,,1953,Male,White Caucasian,,Yes,,,,,,District of Columbia,,Independent,Neither liberal nor conservative,,,Yes,Yes,Yes,,Masters degree (MA or MS),Yes
+89680,2010.02.23,2010.02.23,en,,,,FY919525,,1942,Female,White Caucasian,,Yes,,,,,,California,,Democrat,Very liberal,,,Yes,Yes,No,,Masters degree (MA or MS),Yes
+89682,2010.02.23,2010.02.23,en,,,,FY925002,,1953,Female,White Caucasian,,Yes,,,,,,Wisconsin,,Independent,Somewhat liberal,,,Yes,Yes,Yes,,Masters degree (MA or MS),Yes
+89683,2010.02.23,2010.02.23,en,,,,FY914085,,1933,Male,White Caucasian,,Yes,,,,,,New York,,Democrat,Very liberal,,,Yes,Yes,Yes,,PhD MD MBA Law degree,No
+89684,2010.02.23,2010.02.23,en,,,,FY960979,,1976,Male,Latino or Hispanic,,No,No,8,,,,,,Democrat,Slightly liberal,,,Yes,Yes,Yes,,PhD MD MBA Law degree,No
+89685,2010.02.23,2010.02.23,en,,,,FY995514,,1982,Female,White Caucasian,,Yes,,,,,,South Carolina,,Independent,Somewhat liberal,,,No,No,Yes,,Four year college degree (BA or BS),No
+89687,2010.02.23,2010.02.23,en,,,,FY919153,,1969,Female,,,Yes,,,,,,Pennsylvania,,Democrat,Very liberal,,,Yes,Yes,Yes,,Four year college degree (BA or BS),No
+89688,2010.02.23,,en,,,,FY969474,,,,,,,,,,,,,,,,,,,,,,,
+89689,2010.02.23,2010.02.23,en,,,,FY950523,,1950,Female,Latino or Hispanic,,Yes,,,,,,California,,Democrat,Slightly liberal,,,Yes,Yes,Yes,,Masters degree (MA or MS),No
+89690,2010.02.23,2010.02.23,en,,,,FY993408,,1950,Male,White Caucasian,,Yes,,,,,,New York,,Independent,Very liberal,,,Yes,Yes,Yes,,PhD MD MBA Law degree,No
+89691,2010.02.23,2010.02.23,en,,,,FY969474,,1972,Female,Asian or Pacific Islander,,Yes,,,,,,New York,,Republican,Neither liberal nor conservative,,,Yes,No,No,,Masters degree (MA or MS),No
+89692,2010.02.23,2010.02.23,en,,,,FY977056,,1959,Female,White Caucasian,,Yes,,,,,,Ohio,,Democrat,Somewhat liberal,,,Yes,Yes,Yes,,PhD MD MBA Law degree,No
+89693,2010.02.23,2010.02.23,en,,,,FY983576,,1986,Female,Asian or Pacific Islander,,Yes,,,,,,California,,Democrat,Somewhat liberal,,,No,Yes,Yes,,Four year college degree (BA or BS),No
+89694,2010.02.23,2010.02.23,en,,,,FY904196,,1959,Female,White Caucasian,,Yes,,,,,,Washington,,Independent,Slightly liberal,,,Yes,Yes,Yes,,Masters degree (MA or MS),Yes
+89695,2010.02.23,2010.02.23,en,,,,FY986005,,1967,Female,White Caucasian,,Yes,,,,,,Tennessee,,Democrat,Neither liberal nor conservative,,,Yes,Yes,Yes,,PhD MD MBA Law degree,No
+89696,2010.02.23,,en,,,,FY947150,,1983,Female,White Caucasian,,Yes,,,,,,Texas,,Democrat,Somewhat liberal,,,No,No,Yes,"",Four year college degree (BA or BS),Yes
+89697,2010.02.23,2010.02.23,en,,,,FY963648,,1940,Female,White Caucasian,,Yes,,,,,,California,,Democrat,Slightly liberal,,,Yes,Yes,No,,Four year college degree (BA or BS),No
+89698,2010.02.23,,en,,,,FY947150,,,,,,,,,,,,,,,,,,,,,,,
+89699,2010.02.23,2010.02.23,en,,,,FY947150,,1983,Female,White Caucasian,,Yes,,,,,,Texas,,Democrat,Slightly liberal,,,No,No,Yes,"",Four year college degree (BA or BS),No
+89700,2010.02.23,2010.02.23,en,,,,FY919984,,1942,Male,White Caucasian,,Yes,,,,,,New York,,Democrat,Very liberal,,,Yes,Yes,No,,Masters degree (MA or MS),No
+89702,2010.02.23,2010.02.23,en,,,,FY923229,,1969,Male,Latino or Hispanic,,No,No,1,,,,,"",Republican,Slightly conservative,,,Yes,No,No,,Masters degree (MA or MS),No
+89703,2010.02.23,2010.02.23,en,,,,FY945016,,1944,Male,White Caucasian,,Yes,,,,,,Massachusetts,,Democrat,Slightly liberal,,,Yes,Yes,No,,Masters degree (MA or MS),No
+89704,2010.02.23,2010.02.23,en,,,,FY960034,,1932,Male,White Caucasian,,No,Yes,19,,,,,"",Republican,Very conservative,,,Yes,Yes,No,,Four year college degree (BA or BS),No
+89705,2010.02.23,2010.02.23,en,,,,FY911282,,1951,Female,White Caucasian,,Yes,,,,,,California,,Democrat,Very liberal,,,No,Yes,Yes,,Four year college degree (BA or BS),No
+89706,2010.02.23,2010.02.23,en,,,,FY962658,,1958,Female,White Caucasian,,Yes,,,,,,California,,Democrat,Very liberal,,,Yes,Yes,Yes,,PhD MD MBA Law degree,No
+89707,2010.02.23,,en,,,,FY982242,,1975,Male,Asian or Pacific Islander,,No,No,20,,,,,,,,,,,,,,,
+89708,2010.02.23,,en,,,,FY901770,,1979,Female,White Caucasian,,Yes,,,,,,Colorado,,,,,,,,,,,
+89709,2010.02.23,2010.02.23,en,,,,FY974520,,1967,Female,White Caucasian,,No,No,5,,,,,,Independent,Neither liberal nor conservative,,,Yes,Yes,Yes,,Masters degree (MA or MS),No
+89710,2010.02.23,2010.02.23,en,,,,FY907048,,1964,Female,White Caucasian,,Yes,,,,,,California,,Democrat,Very liberal,,,Yes,Yes,No,,PhD MD MBA Law degree,No
+89711,2010.02.23,2010.02.23,en,,,,FY906296,,1975,Female,White Caucasian,,Yes,,,,,,Massachusetts,,Democrat,Very liberal,,,No,Yes,Yes,,Masters degree (MA or MS),No
+89713,2010.02.23,2010.02.23,en,,,,FY936136,,1940,Female,White Caucasian,,Yes,,,,,,Kansas,,Democrat,Somewhat liberal,,"",No,Yes,Yes,,Masters degree (MA or MS),No
+89715,2010.02.23,2010.02.23,en,,,,FY974614,,1953,Male,White Caucasian,,No,No,12,,,,,"",Other,Very liberal,,,Yes,Yes,Yes,,Masters degree (MA or MS),No
+89717,2010.02.23,2010.02.23,en,,,,FY975057,,1966,Female,White Caucasian,,Yes,,,,,,Massachusetts,,Independent,Somewhat liberal,,,Yes,Yes,Yes,,Masters degree (MA or MS),No
+89719,2010.02.23,2010.02.23,en,,,,FY911860,,1956,Male,White Caucasian,,Yes,,,,,,Pennsylvania,,Republican,Very conservative,,,Yes,No,No,,PhD MD MBA Law degree,No
+89724,2010.02.23,2010.02.23,en,,,,FY966081,,1977,Female,White Caucasian,,Yes,,,,,,California,,Democrat,Somewhat liberal,,"",Yes,No,No,,Masters degree (MA or MS),No
+89727,2010.02.23,2010.02.23,en,,,,FY974383,,1949,Female,White Caucasian,,Yes,,,,,,Michigan,,Democrat,Somewhat liberal,,"",Yes,Yes,Yes,,PhD MD MBA Law degree,No
+89730,2010.02.23,2010.02.23,en,,,,FY924456,,1979,Male,Asian or Pacific Islander,,No,No,10,,,,,,Other,Very liberal,,,Yes,No,No,,PhD MD MBA Law degree,No
+89731,2010.02.23,2010.02.23,en,,,,FY920149,,1934,Female,White Caucasian,,Yes,,,,,,California,,Independent,Slightly conservative,,,Yes,Yes,Yes,,Masters degree (MA or MS),No
+89732,2010.02.23,2010.02.23,en,,,,FY980271,,1933,Male,White Caucasian,,Yes,,,,,,Minnesota,,Democrat,Somewhat liberal,,,Yes,Yes,Yes,,PhD MD MBA Law degree,No
+89733,2010.02.23,2010.02.23,en,,,,FY936461,,1942,Male,White Caucasian,,Yes,,,,,,Wisconsin,,Independent,Somewhat liberal,,,Yes,Yes,No,,PhD MD MBA Law degree,No
+89734,2010.02.23,2010.02.23,en,,,,FY996602,,1943,Male,White Caucasian,,No,Yes,45,,,,,,Democrat,Somewhat liberal,,,Yes,Yes,No,,Masters degree (MA or MS),No
+89736,2010.02.23,2010.02.23,en,,,,FY980271,,1933,Male,White Caucasian,,Yes,,,,,,Minnesota,,,Somewhat liberal,,,Yes,Yes,Yes,,PhD MD MBA Law degree,No
+89737,2010.02.23,2010.02.23,en,,,,FY964071,,1953,Female,White Caucasian,,No,Yes,56,,,,,,Independent,Slightly conservative,,,Yes,Yes,Yes,,Masters degree (MA or MS),Yes
+89738,2010.02.23,2010.02.23,en,,,,FY937702,,1966,Female,Latino or Hispanic,,Yes,,,,,,Indiana,"",Democrat,Slightly liberal,,,Yes,Yes,Yes,,Four year college degree (BA or BS),No
+89740,2010.02.23,2010.02.23,en,,,,FY947599,,1952,Female,Latino or Hispanic,,Yes,,,,,,California,,Democrat,Very liberal,,,Yes,Yes,Yes,,PhD MD MBA Law degree,No
+89742,2010.02.23,2010.02.23,en,,,,FY960778,,1974,Female,White Caucasian,,Yes,,,,,,California,,Democrat,Somewhat liberal,,,Yes,Yes,Yes,,Masters degree (MA or MS),No
+89743,2010.02.23,2010.02.23,en,,,,FY980349,,1976,Female,White Caucasian,,Yes,,,,,,Illinois,,Democrat,Somewhat liberal,,,Yes,Yes,Yes,,Four year college degree (BA or BS),Yes
+89745,2010.02.23,2010.02.23,en,,,,FY919126,,1961,Female,White Caucasian,,Yes,,,,,,Colorado,,Democrat,Somewhat liberal,,,Yes,No,Yes,,PhD MD MBA Law degree,No
+89746,2010.02.23,2010.02.23,en,,,,FY902340,,1984,Female,Latino or Hispanic,,Yes,,,,,,New Mexico,,Other,Very liberal,,,Yes,Yes,Yes,,Four year college degree (BA or BS),No
+89748,2010.02.23,2010.02.23,en,,,,FY942949,,1970,Male,White Caucasian,,Yes,,,,,,Massachusetts,,Democrat,Slightly liberal,,,Yes,Yes,No,,Masters degree (MA or MS),No
+89749,2010.02.23,2010.02.23,en,,,,FY993818,,1933,Female,White Caucasian,,Yes,,,,,,Illinois,,Democrat,Somewhat liberal,,,Yes,Yes,No,,Four year college degree (BA or BS),No
+89750,2010.02.23,2010.02.23,en,,,,FY921384,,1969,Female,Latino or Hispanic,"",No,No,2,,,,,,Democrat,Somewhat liberal,,,Yes,Yes,No,,Masters degree (MA or MS),No
+89751,2010.02.23,2010.02.23,en,,,,FY930761,,1963,Female,White Caucasian,,Yes,,,,,,Arizona,,Independent,Neither liberal nor conservative,,,No,Yes,Yes,,Masters degree (MA or MS),No
+89752,2010.02.23,2010.02.23,en,,,,FY962461,,1973,Female,White Caucasian,,Yes,,,,,,Connecticut,,Independent,Somewhat liberal,,,Yes,No,No,,Masters degree (MA or MS),No
+89754,2010.02.23,2010.02.23,en,,,,FY920609,,1956,Male,Latino or Hispanic,,No,No,6,,,,,"",Other,Somewhat liberal,,,Yes,Yes,No,,PhD MD MBA Law degree,No
+89755,2010.02.23,2010.02.23,en,,,,FY935918,,1939,Male,White Caucasian,,Yes,,,,,,Oklahoma,,Republican,Somewhat conservative,,,Yes,Yes,Yes,,Four year college degree (BA or BS),No
+89756,2010.02.23,2010.02.23,en,,,,FY904216,,1942,Male,White Caucasian,,Yes,,,,,,Oregon,,Democrat,Slightly liberal,,,Yes,Yes,Yes,,PhD MD MBA Law degree,No
+89757,2010.02.23,2010.02.23,en,,,,FY959558,,1951,Female,White Caucasian,,Yes,,,,,,Oregon,,Democrat,Somewhat liberal,,,Yes,Yes,No,,Masters degree (MA or MS),No
+89758,2010.02.23,2010.02.23,en,,,,FY942829,,1982,Male,White Caucasian,,Yes,,,,,,Virginia,,Independent,Somewhat liberal,,,No,Yes,Yes,,Masters degree (MA or MS),Yes
+89759,2010.02.23,2010.02.23,en,,,,FY904896,,1978,Female,White Caucasian,,Yes,,,,,,California,,Democrat,Very liberal,,,Yes,Yes,Yes,,PhD MD MBA Law degree,No
+89760,2010.02.23,2010.02.23,en,,,,FY929732,,1949,Male,White Caucasian,,Yes,,,,,,California,,Independent,Neither liberal nor conservative,,"",Yes,Yes,Yes,,Four year college degree (BA or BS),No
+89761,2010.02.23,2010.02.23,en,,,,FY962351,,1958,Female,White Caucasian,,Yes,,,,,,Massachusetts,,Democrat,Somewhat liberal,,,Yes,Yes,No,,PhD MD MBA Law degree,No
+89762,2010.02.23,2010.02.23,en,,,,FY901541,,1955,Female,Latino or Hispanic,,Yes,,,,,,California,,Democrat,Somewhat liberal,,,Yes,Yes,Yes,,Masters degree (MA or MS),No
+89763,2010.02.23,2010.02.23,en,,,,FY999105,,1957,Male,White Caucasian,,Yes,,,,,,Ohio,,Democrat,Very liberal,,,Yes,Yes,No,,Four year college degree (BA or BS),Yes
+89764,2010.02.23,2010.02.23,en,,,,FY996630,,1933,Male,White Caucasian,,Yes,,,,,,California,"",Democrat,Somewhat liberal,,,Yes,Yes,Yes,,Four year college degree (BA or BS),No
+89767,2010.02.23,2010.02.23,en,,,,FY969311,,1986,Male,White Caucasian,,No,No,1,,,,,,Democrat,Somewhat liberal,,,No,No,No,,Masters degree (MA or MS),No
+89768,2010.02.23,2010.02.23,en,,,,FY975582,,1967,Female,White Caucasian,,No,No,7,,,,,"",Democrat,Very liberal,,,Yes,Yes,No,,PhD MD MBA Law degree,No
+89769,2010.02.23,2010.02.23,en,,,,FY956695,,1982,Male,Black or African American,,Yes,,,,,,California,,Democrat,Somewhat liberal,,,No,Yes,Yes,,Masters degree (MA or MS),No
+89770,2010.02.23,2010.02.23,en,,,,FY942480,,1953,Male,White Caucasian,,No,Yes,23,,,,,,Democrat,Slightly liberal,,,Yes,No,No,,PhD MD MBA Law degree,No
+89771,2010.02.23,2010.02.23,en,,,,FY967945,,1961,Male,#NAME?,,No,No,1,,,,,,Other,Slightly conservative,,,Yes,No,No,,Masters degree (MA or MS),No
+89772,2010.02.23,2010.02.23,en,,,,FY972762,,1971,Female,White Caucasian,,No,No,4,,,,,,Republican,Slightly conservative,,,Yes,No,No,,PhD MD MBA Law degree,No
+89773,2010.02.23,2010.02.23,en,,,,FY979316,,1976,Female,Black or African American,,Yes,,,,,,California,,Democrat,Neither liberal nor conservative,,,Yes,Yes,Yes,,Masters degree (MA or MS),No
+89774,2010.02.23,2010.02.23,en,,,,FY970997,,1969,Female,White Caucasian,,No,No,5,,,,,,Democrat,Slightly conservative,,,No,Yes,Yes,,Masters degree (MA or MS),Yes
+89776,2010.02.23,2010.02.23,en,,,,FY994203,,1960,Male,Asian or Pacific Islander,,No,Yes,38,,,,,,Independent,Slightly liberal,,,Yes,No,Yes,,Masters degree (MA or MS),No
+89777,2010.02.23,2010.02.23,en,,,,FY912053,,1946,Male,White Caucasian,,No,No,3,,,,,,Independent,Somewhat liberal,,,Yes,No,No,,PhD MD MBA Law degree,No
+89778,2010.02.23,2010.02.23,en,,,,FY912994,,1962,Female,White Caucasian,,No,Yes,35,,,,,,Democrat,Slightly liberal,,,Yes,Yes,No,,Masters degree (MA or MS),No
+89781,2010.02.24,2010.02.24,en,,,,FY932804,,1957,Male,White Caucasian,,No,No,6,,,,,,Other,Somewhat conservative,,,Yes,Yes,No,,PhD MD MBA Law degree,No
+89783,2010.02.24,2010.02.24,en,,,,FY983870,,1947,Male,White Caucasian,,No,No,6,,,,,"",Other,Somewhat liberal,,,Yes,No,No,,PhD MD MBA Law degree,No
+89784,2010.02.24,,en,,,,FY983870,,,,,,,,,,,,,,,,,,,,,,,
+89785,2010.02.24,2010.02.24,en,,,,FY936928,,1960,Female,White Caucasian,,Yes,,,,,,New York,,Democrat,Somewhat liberal,,,Yes,Yes,Yes,,Four year college degree (BA or BS),No
+89786,2010.02.24,2010.02.24,en,,,,FY913746,,1970,Male,White Caucasian,,No,No,4,,,,,,Other,Slightly liberal,,,Yes,No,No,,Masters degree (MA or MS),No
+89788,2010.02.24,2010.02.24,en,,,,FY922997,,1937,Female,White Caucasian,,Yes,,,,,,California,,Independent,Neither liberal nor conservative,,,Yes,Yes,No,,Masters degree (MA or MS),Yes
+89789,2010.02.24,2010.02.24,en,,,,FY963930,,1968,Male,Asian or Pacific Islander,,No,No,7,,,,,,Other,Slightly liberal,,,No,Yes,No,,Masters degree (MA or MS),No
+89791,2010.02.24,2010.02.24,en,,,,FY973899,,1953,Female,Asian or Pacific Islander,,Yes,,,,,,Hawaii,,Democrat,Somewhat liberal,,,Yes,Yes,Yes,,Masters degree (MA or MS),No
+89793,2010.02.24,2010.02.24,en,,,,FY973899,,1953,Female,Asian or Pacific Islander,,Yes,,,,,,Hawaii,"",Democrat,Very liberal,,,Yes,Yes,Yes,,Masters degree (MA or MS),No
+89795,2010.02.24,2010.02.24,en,,,,FY944982,,1944,Male,White Caucasian,,No,No,6,,,,,,Democrat,Somewhat liberal,,,Yes,Yes,No,,Masters degree (MA or MS),No
+89797,2010.02.24,2010.02.24,en,,,,FY938920,,1980,Female,#NAME?,,No,No,4,,,,,,Other,Somewhat liberal,,,No,Yes,Yes,,Masters degree (MA or MS),No
+89798,2010.02.24,2010.02.24,en,,,,FY972672,,1968,Female,Asian or Pacific Islander,,Yes,,,,,,Massachusetts,,Democrat,Slightly liberal,,,Yes,Yes,No,,PhD MD MBA Law degree,No
+89800,2010.02.24,,en,,,,FY939558,,1933,Male,White Caucasian,,No,No,,,,,,,,,,,,,,,,
+89801,2010.02.24,2010.02.24,en,,,,FY994872,,1970,Male,White Caucasian,,No,No,4,,,,,,Democrat,Very liberal,,,Yes,No,No,,PhD MD MBA Law degree,No
+89803,2010.02.24,2010.02.24,en,,,,FY910012,,1970,Male,Latino or Hispanic,,No,No,3,,,,,,Democrat,Slightly conservative,,,Yes,No,No,,Masters degree (MA or MS),No
+89804,2010.02.24,2010.02.24,en,,,,FY984989,,1957,Male,White Caucasian,,Yes,,,,,,California,,Independent,Slightly conservative,,,Yes,Yes,No,,PhD MD MBA Law degree,No
+89806,2010.02.24,2010.02.24,en,,,,FY984610,,1985,Female,White Caucasian,,No,Yes,24,,,,,"",Independent,Somewhat liberal,,,No,No,Yes,,Four year college degree (BA or BS),No
+89807,2010.02.24,2010.02.24,en,,,,FY993518,,1959,Male,Latino or Hispanic,,No,No,1,,,,,,Republican,Slightly conservative,,,Yes,No,No,,Masters degree (MA or MS),No
+89809,2010.02.24,2010.02.24,en,,,,FY921774,,1945,Male,White Caucasian,,Yes,,,,,,Minnesota,,Republican,Very conservative,,,Yes,No,No,,PhD MD MBA Law degree,No
+89810,2010.02.24,2010.02.24,en,,,,FY938904,,1966,Female,White Caucasian,,Yes,,,,,,Michigan,,Democrat,Somewhat liberal,,,Yes,Yes,Yes,,PhD MD MBA Law degree,No
+89811,2010.02.24,2010.02.24,en,,,,FY979910,,,Female,Latino or Hispanic,,No,Yes,,,,,,,Democrat,Neither liberal nor conservative,,,Yes,Yes,Yes,,Masters degree (MA or MS),No
+89812,2010.02.24,2010.02.24,en,,,,FY908452,,1939,Female,White Caucasian,,Yes,,,,,,California,"",Democrat,Neither liberal nor conservative,,,Yes,No,No,,Four year college degree (BA or BS),No
+89818,2010.02.24,2010.02.24,en,,,,FY995649,,1944,Male,White Caucasian,,Yes,,,,,,California,,Republican,Neither liberal nor conservative,,,Yes,Yes,No,,Masters degree (MA or MS),No
+89820,2010.02.24,2010.02.24,en,,,,FY919508,,1964,Female,White Caucasian,,Yes,,,,,,Oregon,,Democrat,Somewhat liberal,,,No,Yes,No,,Masters degree (MA or MS),No
+89821,2010.02.24,2010.02.24,en,,,,FY939558,,1933,Male,White Caucasian,,No,No,1,,,,,,Other,Neither liberal nor conservative,,,Yes,Yes,Yes,,Four year college degree (BA or BS),No
+89822,2010.02.24,2010.02.24,en,,,,FY946581,,1968,Female,Black or African American,,No,Yes,29,,,,,,Democrat,Somewhat liberal,,,No,Yes,Yes,,PhD MD MBA Law degree,No
+89824,2010.02.24,2010.02.24,en,,,,FY936415,,1941,Female,White Caucasian,,Yes,,,,,,California,,Democrat,Slightly liberal,,,Yes,Yes,Yes,,PhD MD MBA Law degree,No
+89826,2010.02.24,2010.02.24,en,,,,FY919778,,1983,Female,White Caucasian,,Yes,,,,,,Minnesota,,Republican,Very conservative,,,Yes,No,No,,Four year college degree (BA or BS),No
+89827,2010.02.24,2010.02.24,en,,,,FY906014,,1955,Female,White Caucasian,,Yes,,,,,,California,,Other,Slightly conservative,,,No,Yes,No,,Masters degree (MA or MS),No
+89828,2010.02.24,2010.02.24,en,,,,FY980313,,1935,Male,White Caucasian,,No,No,17,,,,,"",Republican,Very liberal,,,Yes,No,No,,Masters degree (MA or MS),No
+89829,2010.02.24,2010.02.24,en,,,,FY965947,,1943,Male,Latino or Hispanic,,No,No,3,,,,,"",Independent,Somewhat liberal,,,Yes,Yes,No,,PhD MD MBA Law degree,No
+89830,2010.02.24,,en,,,,FY996369,,1978,Female,#NAME?,,Yes,,,,,,Alaska,,,,,,,,,,,
+89831,2010.02.24,2010.02.24,en,,,,FY996369,,1978,Female,#NAME?,,Yes,,,,,,Alaska,,Democrat,Slightly liberal,,,Yes,No,Yes,,PhD MD MBA Law degree,No
+89832,2010.02.24,2010.02.24,en,,,,FY978718,,1946,Female,White Caucasian,,Yes,,,,,,Delaware,,Democrat,Very liberal,"",,No,Yes,Yes,,PhD MD MBA Law degree,No
+89833,2010.02.24,2010.02.24,en,,,,FY998569,,1954,Female,Latino or Hispanic,,No,Yes,29,,,,,,Independent,Slightly conservative,"","",Yes,No,No,,PhD MD MBA Law degree,No
+89837,2010.02.24,2010.02.24,en,,,,FY904644,,1962,Male,White Caucasian,,No,No,20,,,,,,Other,Slightly liberal,,,Yes,No,No,,PhD MD MBA Law degree,No
+89844,2010.02.24,2010.02.24,en,,,,FY948098,,1954,Female,White Caucasian,,Yes,,,,,,Washington,,Independent,Somewhat liberal,,,Yes,Yes,Yes,,Masters degree (MA or MS),No
+89849,2010.02.24,,en,,,,FY987518,,1945,Male,White Caucasian,,Yes,,,,,,,,,,,,,,,,,
+89850,2010.02.24,2010.02.24,en,,,,FY987518,,1945,Male,White Caucasian,,Yes,,,,,,California,,Republican,Somewhat conservative,,,Yes,Yes,No,,Four year college degree (BA or BS),No
+89859,2010.02.24,2010.02.24,en,,,,FY982294,,1977,Female,White Caucasian,,No,No,0,,,,,,Independent,Neither liberal nor conservative,,,Yes,No,No,,Masters degree (MA or MS),No
+89861,2010.02.24,2010.02.24,en,,,,FY925966,,1959,Female,White Caucasian,,No,No,7,,,,,,Other,Somewhat liberal,,,Yes,No,No,,Masters degree (MA or MS),No
+89863,2010.02.24,2010.02.24,en,,,,FY975992,,1953,Male,White Caucasian,,No,No,1,,,,,,Democrat,Somewhat liberal,,,Yes,No,No,,Masters degree (MA or MS),No
+89864,2010.02.24,,en,,,,FY961166,,,,,,,,,,,,,,,,,,,,,,,
+89872,2010.02.24,2010.02.24,en,,,,FY908627,,1955,Male,White Caucasian,,No,No,2,,,,,"",Democrat,Slightly conservative,,,Yes,Yes,No,,PhD MD MBA Law degree,No
+89875,2010.02.24,2010.02.24,en,,,,FY962733,,1970,Female,White Caucasian,,No,No,4,,,,,,Other,Somewhat liberal,,,Yes,Yes,Yes,,PhD MD MBA Law degree,No
+89877,2010.02.24,2010.02.24,en,,,,FY917187,,1970,Female,White Caucasian,,Yes,,,,,,Washington,,Democrat,Somewhat liberal,,,Yes,Yes,Yes,,PhD MD MBA Law degree,No
+89879,2010.02.24,2010.02.24,en,,,,FY908875,,1936,Male,White Caucasian,,Yes,,,,,,New York,,Democrat,Somewhat liberal,,,No,Yes,Yes,,PhD MD MBA Law degree,No
+89881,2010.02.24,2010.02.24,en,,,,FY902515,,1948,Female,White Caucasian,,Yes,,,,,,California,,Independent,Neither liberal nor conservative,,,Yes,Yes,Yes,,Four year college degree (BA or BS),Yes
+89890,2010.02.24,2010.02.24,en,,,,FY935155,,1986,Male,White Caucasian,,Yes,,,,,,Minnesota,,Independent,Slightly conservative,,,Yes,Yes,No,,Four year college degree (BA or BS),No
+89892,2010.02.24,2010.02.24,en,,,,FY956121,,1950,Male,Black or African American,,Yes,,,,,,Illinois,,Democrat,Very liberal,,,Yes,Yes,Yes,,PhD MD MBA Law degree,No
+89893,2010.02.24,2010.02.24,en,,,,FY949580,,1930,Female,White Caucasian,,Yes,,,,,,Colorado,,Republican,Slightly conservative,,,Yes,No,No,,Four year college degree (BA or BS),No
+89895,2010.02.24,2010.02.24,en,,,,FY984593,,1968,Female,Latino or Hispanic,,No,No,4,"",,,,"",Democrat,Somewhat liberal,,,Yes,No,No,,Masters degree (MA or MS),No
+89900,2010.02.24,2010.02.24,en,,,,FY929732,,1949,Male,White Caucasian,,Yes,,,,,,California,,Independent,Neither liberal nor conservative,,"",Yes,Yes,Yes,,Four year college degree (BA or BS),No
+89903,2010.02.24,,en,,,,FY995007,,1946,Male,White Caucasian,,No,Yes,63,,,,,,Democrat,Somewhat liberal,,,Yes,,,,,
+89904,2010.02.24,2010.02.24,en,,,,FY995007,,1946,Male,White Caucasian,,No,Yes,63,,,,,,Democrat,Somewhat liberal,,,Yes,Yes,No,,Masters degree (MA or MS),No
+89905,2010.02.24,2010.02.24,en,,,,FY927211,,1967,Male,Unknown,,No,No,3,,,,,,Independent,Neither liberal nor conservative,,,Yes,No,No,,Masters degree (MA or MS),No
+89908,2010.02.25,2010.02.25,en,,,,FY970130,,1968,Female,Latino or Hispanic,,No,Yes,13,,,,,"",Democrat,Somewhat liberal,,,Yes,Yes,No,,PhD MD MBA Law degree,No
+89918,2010.02.25,2010.02.25,en,,,,FY957617,,1966,Male,Black or African American,,Yes,,,,,,Illinois,"",Democrat,Very liberal,,,Yes,Yes,No,,PhD MD MBA Law degree,No
+89919,2010.02.25,2010.02.25,en,,,,FY908229,,1975,Female,White Caucasian,,Yes,,,,,,Virginia,,Democrat,Somewhat liberal,,,Yes,Yes,Yes,,PhD MD MBA Law degree,No
+89931,2010.02.25,2010.02.25,en,,,,FY914314,,1959,Female,White Caucasian,,Yes,,,,,,California,,Republican,Slightly conservative,,,No,Yes,Yes,,Masters degree (MA or MS),Yes
+89933,2010.02.25,2010.02.25,en,,,,FY923469,,1930,Male,White Caucasian,,Yes,,,,,,New York,,Democrat,Slightly conservative,,,Yes,No,No,,PhD MD MBA Law degree,No
+89937,2010.02.25,2010.02.25,en,,,,FY949911,,1976,Male,White Caucasian,,No,No,1,,,,,"",Democrat,Somewhat liberal,,,Yes,No,No,,PhD MD MBA Law degree,No
+89946,2010.02.25,2010.02.25,en,,,,FY904420,,1931,Female,White Caucasian,,No,Yes,73,,,,,,Democrat,Somewhat liberal,,,No,Yes,No,,Masters degree (MA or MS),No
+89950,2010.02.25,2010.02.25,en,,,,FY989745,,1947,Female,White Caucasian,,Yes,,,,,,California,,Democrat,Slightly liberal,,,Yes,Yes,No,,Masters degree (MA or MS),No
+89954,2010.02.25,2010.02.25,en,,,,FY973899,,1953,Female,Asian or Pacific Islander,,Yes,,,,,,Hawaii,"",Democrat,Very liberal,,,Yes,Yes,Yes,,Masters degree (MA or MS),No
+89970,2010.02.25,2010.02.25,en,,,,FY929892,,1956,Female,White Caucasian,,Yes,,,,,,Rhode Island,,Other,Somewhat liberal,,,Yes,Yes,Yes,,PhD MD MBA Law degree,No
+89978,2010.02.26,2010.02.26,en,,,,FY998013,,1950,Female,White Caucasian,,Yes,,,,,,New York,,Democrat,Somewhat conservative,,,Yes,Yes,No,,PhD MD MBA Law degree,No
+89980,2010.02.26,2010.02.26,en,,,,FY940975,,1963,Female,White Caucasian,,Yes,,,,,,New York,,Democrat,Very liberal,,,Yes,Yes,No,"",Four year college degree (BA or BS),Yes
+89985,2010.02.26,2010.02.26,en,,,,FY927197,,1980,Female,White Caucasian,,Yes,,,,,,Maryland,,Democrat,Somewhat liberal,,,No,Yes,Yes,,PhD MD MBA Law degree,No
+89998,2010.02.26,2010.02.26,en,,,,FY978396,,1946,Female,White Caucasian,,Yes,,,,,,Ohio,,Democrat,Somewhat liberal,,,Yes,Yes,No,,PhD MD MBA Law degree,No
+90004,2010.02.26,2010.02.26,en,,,,FY970206,,1939,Male,White Caucasian,,Yes,,,,,,Oregon,,Independent,Slightly liberal,,,Yes,No,No,,Masters degree (MA or MS),No
+90013,2010.02.26,2010.02.26,en,,,,FY957539,,1978,Female,White Caucasian,,No,No,5,,,,,"",Independent,Very liberal,,,Yes,Yes,No,,Masters degree (MA or MS),No
+90107,2010.03.01,2010.03.01,en,,,,FY920210,,1958,Female,White Caucasian,,Yes,,,,,,California,,Democrat,Very liberal,,"",Yes,Yes,No,,Four year college degree (BA or BS),No
+90110,2010.03.01,2010.03.01,en,,,,FY969214,,1960,Female,White Caucasian,,Yes,,,,,,California,,Democrat,Somewhat liberal,,,Yes,Yes,Yes,,Masters degree (MA or MS),Yes
+90117,2010.03.01,2010.03.01,en,,,,FY959676,,1951,Male,White Caucasian,,Yes,,,,,,California,"",Independent,Slightly conservative,,,Yes,Yes,No,,Masters degree (MA or MS),No
+90118,2010.03.01,2010.03.01,en,,,,FY931086,,1965,Female,Asian or Pacific Islander,,Yes,,,,,,Hawaii,,Republican,Slightly conservative,,,No,Yes,No,,Four year college degree (BA or BS),No
+90151,2010.03.01,2010.03.01,en,,,,FY946844,,1955,Male,White Caucasian,,Yes,,,,,,Illinois,,Democrat,Very liberal,,,Yes,No,No,,Masters degree (MA or MS),No
+90156,2010.03.01,2010.03.01,en,,,,FY934989,,1984,Female,Asian or Pacific Islander,,Yes,,,,,,Minnesota,,Democrat,Somewhat liberal,,,Yes,No,Yes,,Masters degree (MA or MS),No
+90163,2010.03.01,,en,,,,,,,,,,,,,,,,,,,,,,,,,,,
+90166,2010.03.01,2010.03.01,en,,,,FY931820,,1957,Female,White Caucasian,,Yes,,,,,,California,"",Democrat,Somewhat liberal,,,No,Yes,Yes,,Masters degree (MA or MS),No
+90185,2010.03.02,2010.03.02,en,,,,FY923748,,1977,Female,Black or African American,,Yes,,,,,,California,,Democrat,Somewhat liberal,,,Yes,No,No,,Masters degree (MA or MS),No
+90186,2010.03.02,,en,,,,FY930761,,,,,,,,,,,,,,,,,,,,,,,
+90190,2010.03.02,2010.03.02,en,,,,FY918994,,1937,Female,White Caucasian,,Yes,,,,,,Illinois,,Republican,Neither liberal nor conservative,,,Yes,Yes,No,,Masters degree (MA or MS),No
+90191,2010.03.02,2010.03.02,en,,,,FY958915,,1961,Female,#NAME?,,Yes,,,,,,California,,Other,Slightly liberal,,,Yes,Yes,No,,Four year college degree (BA or BS),No
+90197,2010.03.02,2010.03.02,en,,,,FY974105,,1941,Female,White Caucasian,,No,No,,,,,,,Democrat,Very liberal,,,No,Yes,Yes,,PhD MD MBA Law degree,No
+90204,2010.03.02,2010.03.02,en,,,,FY991551,,1948,Male,White Caucasian,,Yes,,,,,,Colorado,,Democrat,Very liberal,,,Yes,Yes,Yes,,PhD MD MBA Law degree,No
+90239,2010.03.03,,en,,,,,,,,,,,,,,,,,,,,,,,,,,,
+90269,2010.03.04,2010.03.04,en,,,,FY979650,,1931,Female,Unknown,,Yes,,,,,,New York,"",Other,Somewhat liberal,,,Yes,Yes,Yes,,PhD MD MBA Law degree,No
+90311,2010.03.04,2010.03.04,en,,,,FY955814,,1956,Female,White Caucasian,,Yes,,,,,,California,,Democrat,Somewhat liberal,,"",Yes,No,No,,PhD MD MBA Law degree,No
+90317,2010.03.04,2010.03.04,en,,,,FY920690,,1972,Female,White Caucasian,,No,No,2,,,,,,Democrat,Somewhat liberal,,,Yes,No,No,"",PhD MD MBA Law degree,No
+90332,2010.03.04,2010.03.04,en,,,,FY972771,,1978,Male,White Caucasian,,Yes,,,,,,California,,Independent,Slightly conservative,,"",Yes,Yes,Yes,,PhD MD MBA Law degree,No
+90338,2010.03.04,2010.03.04,en,,,,FY983064,,1966,Female,White Caucasian,,Yes,,,,,,Minnesota,,Independent,Somewhat liberal,,,Yes,Yes,Yes,,Four year college degree (BA or BS),No
+90416,2010.03.05,2010.03.05,en,,,,FY929673,,1945,Male,#NAME?,,Yes,,,,,,Texas,,Independent,Somewhat conservative,,,Yes,Yes,No,,Masters degree (MA or MS),No
+90441,2010.03.06,2010.03.06,en,,,,FY970179,,1977,Female,White Caucasian,,No,No,12,"",,,,,Democrat,Very liberal,,,No,Yes,No,,PhD MD MBA Law degree,Yes
+90445,2010.03.06,2010.03.06,en,,,,FY976070,,1972,Female,Asian or Pacific Islander,,Yes,,,,,,California,,Independent,Somewhat liberal,,,Yes,Yes,Yes,,PhD MD MBA Law degree,No
+90451,2010.03.06,2010.03.06,en,,,,FY913187,,1956,Female,White Caucasian,,Yes,,,,,,California,,Democrat,Slightly liberal,,,Yes,No,No,,PhD MD MBA Law degree,No
+90694,2010.03.09,,en,,,,,,,,,,,,,,,,,,,,,,,,,,,
+90704,2010.03.10,2010.03.10,en,,,,FY980159,,1946,Male,Latino or Hispanic,,No,No,1,,,,,"",Independent,Neither liberal nor conservative,,,Yes,Yes,No,,Masters degree (MA or MS),No
+90775,2010.03.11,2010.03.11,en,,,,FY941287,,1945,Female,White Caucasian,,Yes,,,,,,Pennsylvania,,Independent,Slightly liberal,,,Yes,Yes,Yes,,Masters degree (MA or MS),Yes
+91025,2010.03.15,2010.03.15,en,,,,FY918792,,1986,Female,White Caucasian,,Yes,,,,,,New Jersey,,Democrat,Very liberal,,,No,Yes,Yes,,Four year college degree (BA or BS),No
+91027,2010.03.15,2010.03.15,en,,,,FY911262,,1961,Male,#NAME?,,Yes,,,,,,California,,Independent,Slightly liberal,,,Yes,Yes,Yes,,PhD MD MBA Law degree,No
+91032,2010.03.15,2010.03.15,en,,,,,,1980,Female,Asian or Pacific Islander,,Yes,,,,,,California,,Democrat,Slightly liberal,,,No,No,No,,PhD MD MBA Law degree,No
+91039,2010.03.15,2010.03.15,en,,,,FY965568,,1926,Female,White Caucasian,,Yes,,,,,,California,,Democrat,Somewhat liberal,,,No,Yes,Yes,,Four year college degree (BA or BS),Yes
+91053,2010.03.15,2010.03.15,en,,,,FY927042,,1958,Female,White Caucasian,,Yes,,,,,,Missouri,,Independent,Slightly conservative,,,Yes,Yes,Yes,,PhD MD MBA Law degree,Yes
+91058,2010.03.15,2010.03.15,en,,,,FY976359,,1986,Female,White Caucasian,,Yes,,,,,,Minnesota,,Democrat,Very liberal,,,No,Yes,Yes,,Four year college degree (BA or BS),No
+91065,2010.03.15,2010.03.15,en,,,,FY951764,,1968,Female,Latino or Hispanic,,No,No,4,"",,,,"",Democrat,Somewhat liberal,,,Yes,No,Yes,,Masters degree (MA or MS),No
+91103,2010.03.16,2010.03.16,en,,,,FY951830,,1943,Male,White Caucasian,,No,No,2,,,,,"",Republican,Slightly conservative,,,Yes,Yes,No,,PhD MD MBA Law degree,No
+91150,2010.03.17,2010.03.17,en,,,,FY987009,,1959,Female,#NAME?,,Yes,,,,,,North Carolina,,Other,Neither liberal nor conservative,,,Yes,Yes,Yes,,Masters degree (MA or MS),No
+91246,2010.03.19,,en,,,,FY940047,,1935,Female,White Caucasian,,Yes,,,,,,Pennsylvania,,,,,,,,,,,
+91247,2010.03.19,,en,,,,FY940047,,,,,,,,,,,,,,,,,,,,,,,
+91249,2010.03.19,2010.03.19,en,,,,FY929841,,1973,Male,Asian or Pacific Islander,,No,Yes,20,,,,,,Democrat,Neither liberal nor conservative,,,Yes,No,No,,Masters degree (MA or MS),No
+91323,2010.03.22,2010.03.22,en,,,,FY978875,,1979,Female,,,Yes,,,,,,Oregon,,Democrat,Somewhat liberal,,,Yes,Yes,Yes,,Masters degree (MA or MS),No
+91373,2010.03.24,2010.03.24,en,,,,FY996137,,1958,Female,White Caucasian,,Yes,,,,,,California,,Other,Very liberal,,,Yes,Yes,Yes,,PhD MD MBA Law degree,No
+91378,2010.03.24,2010.03.24,en,,,,FY991569,,1958,Female,Latino or Hispanic,,Yes,,,,,,Michigan,,Democrat,Slightly liberal,,,Yes,Yes,Yes,,Four year college degree (BA or BS),No
+91411,2010.03.25,2010.03.25,en,,,,FY938999,,1973,Male,Latino or Hispanic,,No,No,2,"",,,,"",Independent,Very liberal,,,No,No,No,,Masters degree (MA or MS),No
+91563,2010.03.31,2010.03.31,en,,,,FY974121,,1981,Female,White Caucasian,,No,Yes,22,,,,,,Democrat,Somewhat liberal,,,Yes,Yes,Yes,"",Masters degree (MA or MS),No
+91762,2010.04.05,2010.04.05,en,,,,FY972628,,1973,Female,White Caucasian,,No,No,9,,,,,,,Somewhat liberal,,,Yes,No,Yes,,PhD MD MBA Law degree,Yes
+91783,2010.04.06,2010.04.06,en,,,,FY921774,,1945,Male,White Caucasian,,Yes,,,,,,Minnesota,,Republican,Very conservative,,"",Yes,Yes,No,,PhD MD MBA Law degree,No
+91979,2010.04.12,2010.04.12,en,,,,FY990161,,1933,Male,White Caucasian,,Yes,,,,,,New York,,Democrat,Very liberal,,,Yes,Yes,Yes,,PhD MD MBA Law degree,Yes
+91985,2010.04.12,2010.04.12,en,,,,FY938793,,1982,Female,Latino or Hispanic,,Yes,,,,,,California,,Independent,Slightly liberal,,,No,Yes,Yes,"",Masters degree (MA or MS),No
+91990,2010.04.12,2010.04.12,en,,,,FY969693,,1951,Female,White Caucasian,,Yes,,,,,,Oregon,,Democrat,Somewhat liberal,,,Yes,Yes,Yes,,Masters degree (MA or MS),Yes
+92044,2010.04.14,2010.04.14,en,,,,FY978837,,1938,Male,,,No,No,1,,,,,"",Independent,Slightly conservative,,,Yes,No,No,,Masters degree (MA or MS),No
+92243,2010.04.19,2010.04.19,en,,,,FY996137,,1958,Female,White Caucasian,,Yes,,,,,,California,,Democrat,Somewhat liberal,,,Yes,Yes,Yes,,PhD MD MBA Law degree,No
+92830,2010.05.06,,en,,,,FY916757,,1967,Male,Latino or Hispanic,,No,,,,,,,,,,,,,,,,,
+92837,2010.05.07,2010.05.07,en,,,,FY907400,,1957,Female,White Caucasian,,Yes,,,,,,New York,,Democrat,Somewhat liberal,,,Yes,Yes,No,,Four year college degree (BA or BS),No
+92838,2010.05.07,,en,,,,FY970292,,1961,Male,Asian or Pacific Islander,,No,No,0,,,,,,,,,,,,,,,
+92841,2010.05.07,2010.05.07,en,,,,FY970292,,1961,Male,Asian or Pacific Islander,,No,No,0,,,,,,Other,Neither liberal nor conservative,,,Yes,Yes,No,,PhD MD MBA Law degree,No
+92842,2010.05.07,2010.05.07,en,,,,FY994721,,1956,,White Caucasian,,Yes,,,,,,New York,,Democrat,Very liberal,,,Yes,Yes,Yes,,PhD MD MBA Law degree,No
+92843,2010.05.07,2010.05.07,en,,,,FY932899,,1966,Female,#NAME?,"",No,Yes,31,,,,,,Republican,Somewhat conservative,,,Yes,Yes,No,,Four year college degree (BA or BS),No
+92845,2010.05.07,2010.05.07,en,,,,FY990645,,1959,Female,Latino or Hispanic,,No,Yes,49,,,,,,Independent,Neither liberal nor conservative,,,Yes,Yes,Yes,,PhD MD MBA Law degree,No
+92846,2010.05.07,2010.05.07,en,,,,FY988928,,1957,Female,White Caucasian,,Yes,,,,,,New York,,Republican,Slightly conservative,,,Yes,Yes,Yes,,Four year college degree (BA or BS),No
+92847,2010.05.07,2010.05.07,en,,,,FY943443,,1963,Female,#NAME?,,No,Yes,29,,,,,,Republican,Slightly conservative,,,Yes,Yes,Yes,"",Masters degree (MA or MS),No
+92848,2010.05.07,2010.05.07,en,,,,FY995443,,1951,Female,White Caucasian,,Yes,,,,,,Pennsylvania,,Republican,Slightly conservative,,,Yes,Yes,No,,PhD MD MBA Law degree,No
+92849,2010.05.07,2010.05.07,en,,,,FY920597,,1955,Female,#NAME?,,Yes,,,,,,Maine,,Republican,Somewhat conservative,,,Yes,Yes,No,,Four year college degree (BA or BS),No
+92850,2010.05.07,2010.05.07,en,,,,FY957424,,1950,Female,White Caucasian,,Yes,,,,,,South Carolina,,Independent,Slightly liberal,,,Yes,Yes,No,,PhD MD MBA Law degree,No
+92851,2010.05.07,2010.05.07,en,,,,FY963541,,1961,Female,White Caucasian,,Yes,,,,,,Virginia,,Republican,Slightly conservative,,,No,Yes,No,,Four year college degree (BA or BS),No
+92852,2010.05.07,2010.05.07,en,,,,FY958900,,1963,Female,White Caucasian,,No,Yes,40,,,,,,Democrat,Very liberal,,,Yes,No,No,,Masters degree (MA or MS),No
+92853,2010.05.07,2010.05.07,en,,,,FY910978,,1962,Female,#NAME?,,No,No,0,,,,,"",Democrat,Somewhat liberal,,,Yes,No,No,,Four year college degree (BA or BS),No
+92854,2010.05.07,2010.05.07,en,,,,FY997218,,1956,Female,White Caucasian,,Yes,,,,,,District of Columbia,,Democrat,Somewhat liberal,,,Yes,Yes,No,,PhD MD MBA Law degree,No
+92855,2010.05.07,2010.05.07,en,,,,FY923545,,1952,Male,Asian or Pacific Islander,,No,Yes,20,,,,,,Independent,Neither liberal nor conservative,,,Yes,No,No,,PhD MD MBA Law degree,No
+92856,2010.05.07,2010.05.07,en,,,,FY960478,,1956,Female,White Caucasian,,Yes,,,,,,New York,,Democrat,Somewhat liberal,,,Yes,Yes,Yes,,PhD MD MBA Law degree,No
+92857,2010.05.07,2010.05.07,en,,,,FY970178,,1949,Female,Latino or Hispanic,,Yes,,,,,,New Mexico,,Other,Slightly conservative,,,Yes,Yes,No,,Masters degree (MA or MS),No
+92858,2010.05.07,2010.05.07,en,,,,FY953843,,1961,Female,#NAME?,,No,No,24,,,,,,Other,Somewhat liberal,,,Yes,Yes,No,,Four year college degree (BA or BS),No
+92859,2010.05.08,2010.05.08,en,,,,FY947737,,1946,Male,Latino or Hispanic,,Yes,,,,,,Puerto Rico,,Democrat,Neither liberal nor conservative,,,Yes,No,No,,Four year college degree (BA or BS),No
+92860,2010.05.08,2010.05.08,en,,,,FY998510,,1958,Female,White Caucasian,,Yes,,,,,,New York,,Democrat,Very liberal,,"",Yes,Yes,No,,Masters degree (MA or MS),No
+92862,2010.05.08,,en,,,,FY934245,,1944,Male,Asian or Pacific Islander,,No,,,,,,,,,,,,,,,,,
+92864,2010.05.08,2010.05.08,en,,,,FY934245,,1944,Male,Asian or Pacific Islander,,No,Yes,40,"",,,,,Republican,Very conservative,,,Yes,No,No,"",PhD MD MBA Law degree,No
+92866,2010.05.09,2010.05.09,en,,,,FY961837,,1953,Female,White Caucasian,,No,Yes,18,,,,,,Independent,Neither liberal nor conservative,,,Yes,No,No,,Masters degree (MA or MS),No
+92867,2010.05.09,2010.05.09,en,,,,FY947737,,1957,Female,Latino or Hispanic,,Yes,,,,,,Puerto Rico,,Democrat,Somewhat liberal,,,Yes,No,No,,PhD MD MBA Law degree,No
+92869,2010.05.10,2010.05.10,en,,,,FY949005,,1959,Female,White Caucasian,,Yes,,,,,,California,,Republican,Very conservative,,,Yes,Yes,Yes,,Four year college degree (BA or BS),No
+92870,2010.05.10,2010.05.10,en,,,,FY937671,,1951,Female,White Caucasian,,Yes,,,,,,New York,,Democrat,Very liberal,,,No,Yes,No,,Masters degree (MA or MS),No
+92871,2010.05.10,2010.05.10,en,,,,FY915367,,1958,Female,White Caucasian,,Yes,,,,,,Indiana,,Independent,Neither liberal nor conservative,,,No,,Yes,,PhD MD MBA Law degree,No
+92873,2010.05.10,2010.05.10,en,,,,FY959946,,1946,Female,White Caucasian,,Yes,,,,,,California,,Democrat,Somewhat liberal,,,Yes,Yes,Yes,,Masters degree (MA or MS),No
+92874,2010.05.10,2010.05.10,en,,,,,,1946,Male,Latino or Hispanic,,Yes,,,,,,Puerto Rico,,Democrat,Neither liberal nor conservative,,,Yes,No,No,,Four year college degree (BA or BS),No
+92877,2010.05.10,,en,,,,FY952866,,,,,,,,,,,,,,,,,,,,,,,
+92878,2010.05.10,2010.05.10,en,,,,,,1957,Female,Latino or Hispanic,,Yes,,,,,,Puerto Rico,,Democrat,Somewhat liberal,,,Yes,No,No,,PhD MD MBA Law degree,No
+92881,2010.05.11,2010.05.11,en,,,,FY948320,,1952,Female,White Caucasian,,Yes,,,,,,Pennsylvania,,Independent,Slightly liberal,,,Yes,Yes,No,,PhD MD MBA Law degree,No
+92882,2010.05.11,2010.05.11,en,,,,FY970625,,1957,Female,White Caucasian,,Yes,,,,,,California,,Republican,Somewhat conservative,,,Yes,Yes,No,,Masters degree (MA or MS),No
+92887,2010.05.12,2010.05.12,en,,,,FY967890,,1943,Female,Black or African American,,Yes,,,,,,Missouri,,Democrat,Slightly liberal,,,Yes,Yes,No,,Masters degree (MA or MS),No
+92892,2010.05.12,2010.05.12,en,,,,FY952866,,1957,Female,#NAME?,,Yes,,,,,,California,,Independent,Slightly conservative,,,Yes,Yes,No,,,No
+92893,2010.05.12,2010.05.12,en,,,,FY906864,,1958,Female,White Caucasian,,Yes,,,,,,Rhode Island,,Independent,Slightly liberal,,,Yes,Yes,No,,Four year college degree (BA or BS),No
+92907,2010.05.13,2010.05.13,en,,,,FY918842,,1955,Female,White Caucasian,,No,No,4,,,,,,Other,Very liberal,,,Yes,No,No,,Masters degree (MA or MS),No
+92914,2010.05.14,2010.05.14,en,,,,FY982343,,1968,Male,White Caucasian,,Yes,,,,,,California,,Independent,Slightly liberal,,,Yes,Yes,No,,Four year college degree (BA or BS),No
+92937,2010.05.16,2010.05.16,en,,,,FY976994,,1960,Female,White Caucasian,,Yes,,,,,,Missouri,,Democrat,Somewhat liberal,,,Yes,Yes,No,,Four year college degree (BA or BS),No
+92941,2010.05.17,2010.05.17,en,,,,FY916511,,1962,Male,White Caucasian,,No,No,1,,,,,,Other,Slightly liberal,,,Yes,Yes,No,,Masters degree (MA or MS),No
+93216,2010.06.05,2010.06.05,en,,,,FY908039,,1955,Male,White Caucasian,,Yes,,,,,,California,,Democrat,Somewhat liberal,,,Yes,,Yes,,PhD MD MBA Law degree,No
+93235,2010.06.08,2010.06.08,en,,,,FY902962,,1958,Male,White Caucasian,,Yes,,,,,,New York,,Democrat,Somewhat liberal,,,Yes,Yes,Yes,,PhD MD MBA Law degree,No
+93238,2010.06.08,,en,,,,FY916757,,1900,Female,Black or African American,,No,,,,,,,,,,,,,,,,,
+93239,2010.06.08,2010.06.08,en,,,,FY960732,,1953,Female,White Caucasian,,Yes,,,,,,New Jersey,,Independent,Very liberal,,,Yes,No,No,,,No
+93406,2010.06.23,2010.06.23,en,,,,FY977056,,1959,Female,White Caucasian,,Yes,,,,,,Ohio,,Democrat,Somewhat liberal,,,No,Yes,Yes,,PhD MD MBA Law degree,No
