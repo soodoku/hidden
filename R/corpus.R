@@ -53,7 +53,9 @@ wilson <- function(k, n, z = stats::qnorm(0.975)) {
   p <- k / n
   centre <- (p + z^2 / (2 * n)) / (1 + z^2 / n)
   half <- z * sqrt(p * (1 - p) / n + z^2 / (4 * n^2)) / (1 + z^2 / n)
-  list(lower = pmax(0, centre - half), upper = pmin(1, centre + half))
+  # At p = 0 or 1 the bound equals p exactly; clamping keeps rounding error
+  # from placing it on the wrong side of the estimate.
+  list(lower = pmin(p, pmax(0, centre - half)), upper = pmax(p, pmin(1, centre + half)))
 }
 
 feature_indicators <- function(items) {
