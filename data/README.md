@@ -2,9 +2,9 @@
 
 | File | What it is | Source |
 |---|---|---|
-| `raw/alumni_2010.csv`, `raw/alumni_2010_demographics.csv` | Online survey of an alumni panel of a private university in the western U.S., September–October 2010, and the panel's intake demographics | `finite-sample/hidden`, `data/arep/` |
-| `raw/staff_2010.csv`, `raw/staff_2010_demographics.csv` | The same survey of the university's staff panel, September–October 2010 | `finite-sample/hidden`, `data/srep/` |
-| `raw/mturk_march_2017.csv` | Qualtrics export of an Amazon Mechanical Turk survey of U.S. workers, 27 March 2017 | `finite-sample/hidden`, `data/mturk/` |
+| `raw/alumni_2010.csv`, `raw/alumni_2010_demographics.csv` | Online survey of an alumni panel of a private university in the western U.S., September–October 2010, and the panel's intake demographics | `finite-sample/know_hidden`, `data/arep/` |
+| `raw/staff_2010.csv`, `raw/staff_2010_demographics.csv` | The same survey of the university's staff panel, September–October 2010 | `finite-sample/know_hidden`, `data/srep/` |
+| `raw/mturk_march_2017.csv` | Qualtrics export of an Amazon Mechanical Turk survey of U.S. workers, 27 March 2017 | `finite-sample/know_hidden`, `data/mturk/` |
 | `raw/anes2000_office_probe.csv`, `raw/anes2004_office_probe.csv`, `raw/anes2008_office_probe.csv` | Derived extracts of the ANES Time Series public releases: case ID, interview date, probe flags and office-recognition codes | ANES 2000, 2004, 2008 Time Series (electionstudies.org); 2008 codes from the ANES office-recognition release |
 | `raw/naes2004_tax_probe.csv`, `raw/naes2008_tax_probe.csv` | Not in the repository. The NAES terms forbid posting the data in whole or part; `docs/naes_probe.csv` holds the item-level results | Annenberg Public Policy Center, by request |
 | `raw/anes_questionnaires/` | ANES 2012 and 2016 questionnaires used to code the item corpus | electionstudies.org; see `SOURCE.md` |
