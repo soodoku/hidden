@@ -25,8 +25,9 @@ check: paper lint test
 
 ci-docker:
 	docker run --rm -v "$(CURDIR):/project" -w /project \
+		-v r_renv_cache:/root/.cache/R/renv \
 		-e RENV_CONFIG_REPOS_OVERRIDE=https://packagemanager.posit.co/cran/latest \
-		rocker/verse:4.6.0 make restore check
+		rocker/verse:4.6.0 bash -c "tlmgr install latexmk fontspec booktabs float caption natbib xurl setspace adjustbox && make restore check"
 
 clean:
 	cd ms && latexmk -C main.tex
