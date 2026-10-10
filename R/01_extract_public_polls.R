@@ -1,7 +1,7 @@
 # Writes the respondent-level extracts behind the ANES and NAES don't-know probe tables.
 #
 # Usage:
-#   Rscript --no-init-file scripts/extract_public_polls.R <old_repo> <anes2008_office_codes.sav>
+#   Rscript --no-init-file R/01_extract_public_polls.R <old_repo> <anes2008_office_codes.sav>
 #
 # <old_repo> is the original project directory holding data/anes and data/naes.
 # <anes2008_office_codes.sav> is "Political knowledge - All codes2.sav" from ANES2008TS_OfficeRecognition.zip,
@@ -14,7 +14,7 @@
 
 args <- commandArgs(trailingOnly = TRUE)
 if (length(args) != 2) {
-  stop("Usage: extract_public_polls.R <old_repo> <anes2008_office_codes.sav>")
+  stop("Usage: R/01_extract_public_polls.R <old_repo> <anes2008_office_codes.sav>")
 }
 old_repo <- args[[1]]
 or08_path <- args[[2]]

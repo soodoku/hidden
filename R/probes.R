@@ -19,7 +19,7 @@ naes04_keys <- list(
   codebook = list(repeal_wealthy = 5, repeal_all = c(8, 9))
 )
 
-read_probe_extract <- function(name, dir = file.path("data", "raw")) {
+read_probe_extract <- function(name, dir = raw_dir) {
   readr::read_csv(file.path(dir, paste0(name, ".csv")), show_col_types = FALSE, guess_max = 1e5)
 }
 
@@ -31,7 +31,7 @@ outcome_from_codes <- function(x, correct, nonsubstantive) {
   )
 }
 
-anes_long <- function(dir = file.path("data", "raw")) {
+anes_long <- function(dir = raw_dir) {
   a00 <- read_probe_extract("anes2000_office_probe", dir) |>
     assertr::verify(length(case_id) == 1555) |>
     dplyr::filter(.data$k2_form == 1) |>
@@ -102,7 +102,7 @@ score_mentions <- function(mentions, key) {
   })
 }
 
-naes_long <- function(dir = file.path("data", "raw")) {
+naes_long <- function(dir = raw_dir) {
   n04 <- read_probe_extract("naes2004_tax_probe", dir) |>
     assertr::assert(assertr::in_set(0, 1, NA), "ccb26", "ccb28", "ccb30", "ccb32")
   single04 <- function(item, answer, probe, correct) {
@@ -211,15 +211,15 @@ summarise_probe <- function(long) {
 }
 
 attach_fielding <- function(tab) {
-  items <- readr::read_csv(file.path("docs", "probe_items.csv"), show_col_types = FALSE)
+  items <- readr::read_csv(project_file("docs", "probe_items.csv"), show_col_types = FALSE)
   tab |>
     dplyr::left_join(dplyr::select(items, "survey", "item", "fielded"), by = c("survey", "item")) |>
     assertr::assert(assertr::not_na, "fielded")
 }
 
 # Averages are unweighted means over the four items under the main key, as in the draft.
-anes_probe_table <- function(dir = file.path("data", "raw")) {
-  items <- attach_fielding(summarise_probe(anes_long(dir)))
+summarise_anes_probe <- function(long) {
+  items <- attach_fielding(summarise_probe(long))
   averages <- items |>
     dplyr::filter(.data$key %in% c("anes", "strict")) |>
     dplyr::summarise(
@@ -232,11 +232,13 @@ anes_probe_table <- function(dir = file.path("data", "raw")) {
     dplyr::arrange(.data$survey, !.data$key %in% c("anes", "strict"), .data$item == "average")
 }
 
-naes_probe_table <- function(dir = file.path("data", "raw")) {
+anes_probe_table <- function(dir = raw_dir) summarise_anes_probe(anes_long(dir))
+
+naes_probe_table <- function(dir = raw_dir) {
   attach_fielding(summarise_probe(naes_long(dir)))
 }
 
-write_probe_tables <- function(dir = file.path("data", "raw"), out = "tabs") {
+write_probe_tables <- function(dir = raw_dir, out = table_dir) {
   readr::write_csv(anes_probe_table(dir), file.path(out, "anes_probe.csv"), na = "")
   readr::write_csv(naes_probe_table(dir), file.path(out, "naes_probe.csv"), na = "")
 }

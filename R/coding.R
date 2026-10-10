@@ -1,4 +1,4 @@
-read_open_codes <- \() read_strict_csv(file.path("docs", "open_codes.csv"))
+read_open_codes <- \() read_strict_csv(project_file("docs", "open_codes.csv"))
 
 normalize_answer <- function(x) {
   x |>

@@ -8,7 +8,7 @@ flag_cols <- c(
 )
 option_levels <- c("2", "3", "4", "5", "7", "11", "open")
 
-read_items <- function(path = file.path("docs", "knowledge_items.csv")) {
+read_items <- function(path = project_file("docs", "knowledge_items.csv")) {
   readr::read_csv(path, col_types = readr::cols(.default = readr::col_character()), na = character()) |>
     dplyr::mutate(dplyr::across(dplyr::all_of(flag_cols), as.integer)) |>
     assertr::verify(assertr::has_all_names("survey", "variable", "question", "response_options", "correct_answer")) |>

@@ -1,4 +1,5 @@
 root <- testthat::test_path("..", "..")
+source(file.path(root, "scripts", "00_config.R"), local = TRUE)
 source(file.path(root, "R", "corpus.R"))
 items <- read_items(file.path(root, "docs", "knowledge_items.csv"))
 

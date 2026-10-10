@@ -1,5 +1,3 @@
-purrr::walk(list.files("R", full.names = TRUE), source)
-
 p0 <- \(x) dplyr::if_else(is.na(x), "--", formatC(abs(round(100 * x)), format = "f", digits = 0))
 signed <- \(x) dplyr::if_else(is.na(x), "--", sub("^-", "$-$", formatC(round(100 * x) + 0, format = "f", digits = 0)))
 with_se <- \(est, se) dplyr::if_else(is.na(est), "--", paste0(signed(est), " (", p0(se), ")"))
@@ -29,7 +27,7 @@ cue_rows <- effects |>
     Difference = with_se(difference_correct, std_error_correct),
     Lenient = with_se(difference_lenient, std_error_lenient)
   )
-write_table(cue_rows, "tabs/cue.tex", "llrrrr", c(
+write_table(cue_rows, file.path(table_dir, "cue.tex"), "llrrrr", c(
   "Sample", "Public figure", "Name", "Photo", "Photo $-$ name",
   "Lenient"
 ))
@@ -55,7 +53,7 @@ form_rows <- dplyr::full_join(form_levels, form_diff, by = c("study", "item")) |
     Adjusted = with_se(difference_corrected, std_error_corrected)
   )
 write_table(
-  form_rows, "tabs/open_closed.tex", "llrrrrr",
+  form_rows, file.path(table_dir, "open_closed.tex"), "llrrrrr",
   c("Sample", "Item", "Open", "MC", "MC corr.", "MC $-$ open", "Corr. $-$ open")
 )
 
@@ -76,7 +74,7 @@ probes <- read_tab("probe_gains.csv") |>
     Combined = p0(combined_corrected)
   )
 write_table(
-  probes, "tabs/probes.tex", "lllrrrrrr",
+  probes, file.path(table_dir, "probes.tex"), "lllrrrrrr",
   c("Sample", "Figure", "Cue", "$n$", "Open", "Asked MC", "Gain", "Corr. gain", "Open + corr.")
 )
 
@@ -103,7 +101,7 @@ dk_rows <- dplyr::full_join(dk_levels, dk_diff, by = c("study", "item")) |>
     Corrected = with_se(difference_corrected, std_error_corrected)
   )
 write_table(
-  dk_rows, "tabs/dk.tex", "llrrrrrrr",
+  dk_rows, file.path(table_dir, "dk.tex"), "llrrrrrrr",
   c(
     "Sample", "Deficit under", "\\multicolumn{2}{c}{Correct}", "\\multicolumn{2}{c}{DK}",
     "\\multicolumn{3}{c}{Discouraging $-$ encouraging}\\\\ & & Enc. & Disc. & Enc. & Disc. & Correct & DK & Corr."
@@ -122,7 +120,7 @@ formats <- read_tab("mc_vs_scale.csv") |>
     Gap = with_se(gap_corrected, gap_corrected_se)
   )
 write_table(
-  formats, "tabs/formats.tex", "llrrrrr",
+  formats, file.path(table_dir, "formats.tex"), "llrrrrr",
   c("Sample", "Item", "MC", "MC corr.", "Certain", "Certain, first", "MC corr. $-$ scale")
 )
 
@@ -146,7 +144,7 @@ reason_rows <- reasons |>
     dplyr::across(dplyr::all_of(reason_order), p0)
   )
 write_table(
-  reason_rows, "tabs/reasons.tex", "llrrrrrrr",
+  reason_rows, file.path(table_dir, "reasons.tex"), "llrrrrrrr",
   c("Item", "Answer", "$n$", "Heard it", "Inferred", "Guessed", "Felt good", "Asked", "Looked up")
 )
 
@@ -173,14 +171,14 @@ feature_rows <- features |>
   dplyr::arrange(feature) |>
   dplyr::transmute(Feature = unname(feature_labels[as.character(feature)]), Combined, `ANES 2012`, `ANES 2016`)
 write_table(
-  feature_rows, "tabs/features.tex", "lrrr",
-  c("Feature", paste0("Combined ($n=", nrow(read_items()), "$)"), "2012", "2016")
+  feature_rows, file.path(table_dir, "features.tex"), "lrrr",
+  c("Feature", paste0("Combined ($n=", unique(features$n[features$survey == "Combined"]), "$)"), "2012", "2016")
 )
 
 # Repeat asks of don't-know answers in the ANES and NAES.
 public_probes <- dplyr::bind_rows(
   read_tab("anes_probe.csv") |> dplyr::filter(key %in% c("anes", "strict"), item != "average"),
-  readr::read_csv(file.path("docs", "naes_probe.csv"), show_col_types = FALSE) |>
+  read_tab("naes_probe.csv") |>
     dplyr::filter(key %in% c("verified", "codebook"), !is.na(correct_before)) |>
     dplyr::filter(!(item %in% c("repeal_wealthy", "repeal_all") & key == "codebook"))
 )
@@ -195,7 +193,7 @@ public_rows <- public_probes |>
     DK = p0(dk_before), Converted = p0(conversion_rate)
   )
 write_table(
-  public_rows, "tabs/public_probes.tex", "llrrrrrr",
+  public_rows, file.path(table_dir, "public_probes.tex"), "llrrrrrr",
   c("Survey", "Item", "$n$", "Before", "After", "Gain", "DK before", "DKs converted")
 )
 
@@ -300,4 +298,10 @@ values <- c(
   anesConvertMedian = p0(median(public_probes$conversion_rate[startsWith(public_probes$survey, "ANES")])),
   naesConvertMax = p0(max(public_probes$conversion_rate[startsWith(public_probes$survey, "NAES")]))
 )
-write_macros(values, "tabs/macros.tex")
+write_macros(values, file.path(table_dir, "macros.tex"))
+
+writeLines(paste0(
+  "\\newcommand{\\TableStyle}{\\", table_style$font_size,
+  "\\setlength{\\tabcolsep}{", table_style$column_padding,
+  "}\\renewcommand{\\arraystretch}{", table_style$row_stretch, "}}"
+), file.path(table_dir, "style.tex"))

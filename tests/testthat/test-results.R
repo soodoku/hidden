@@ -1,7 +1,10 @@
 root <- normalizePath(file.path(testthat::test_path(), "..", ".."))
 old_wd <- setwd(root)
 withr::defer(setwd(old_wd), testthat::teardown_env())
-for (f in list.files("R", full.names = TRUE)) source(f, local = TRUE)
+source("scripts/00_config.R", local = TRUE)
+for (module in c("sources.R", "coding.R", "analysis.R", "probes.R", "corpus.R", "paper.R")) {
+  source(project_file("R", module), local = TRUE)
+}
 
 panel <- dplyr::bind_rows(read_alumni(), read_staff())
 mturk <- read_mturk()

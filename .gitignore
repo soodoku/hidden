@@ -12,5 +12,6 @@ ms/*.fls
 ms/*.log
 ms/*.out
 ms/*.xdv
-# NAES data may not be posted without APPC permission (see scripts/extract_public_polls.R).
+# NAES data may not be posted without APPC permission (see R/01_extract_public_polls.R).
 data/raw/naes*.csv
+data/derived/

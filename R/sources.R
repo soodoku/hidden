@@ -1,12 +1,4 @@
-raw_path <- \(name) file.path("data", "raw", name)
-
-raw_files <- c(
-  alumni_2010.csv = "7baf68c339ab36d99eac7ff018c6c4e1179b13443dd8450f1d0d1c6b13ab6c82",
-  alumni_2010_demographics.csv = "2d8df024fa03a009dada14b1c2d7b5cee4f26457936a485dfa6fd687e65d501a",
-  staff_2010.csv = "891f04e9cfe768d0b666a3133a23da05478b90c4a6653285fe197d263e7fb5c2",
-  staff_2010_demographics.csv = "1ccc085332361fcd405fa0d1823e1f7ebe5779e09542833086af3c1cc2896a18",
-  mturk_march_2017.csv = "845864d3861868f27a781aa3ed5875e77b5d8587f216eff22930416521808f02"
-)
+raw_path <- \(name) file.path(raw_dir, name)
 
 verify_sources <- function() {
   found <- purrr::map_chr(names(raw_files), \(f) digest::digest(file = raw_path(f), algo = "sha256"))

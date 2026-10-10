@@ -15,6 +15,7 @@
 \setstretch{1.15}
 \graphicspath{{../figs/}}
 \input{../tabs/macros.tex}
+\input{../tabs/style.tex}
 
 \title{Mis-measuring Political Knowledge? Do People Know More---or Even Less---about Politics than Commonly Thought?}
 \author{Robert C. Luskin \and Gaurav Sood \and Daniel Weitzel}
@@ -56,7 +57,7 @@ The details vary from measure to measure but resemble each other enough to justi
 Table~\ref{tab:features} counts the design features of the \nItems{} knowledge items in the 2012 and 2016 ANES time series (\nItemsTwelve{} and \nItemsSixteen{} items). An item counts as a knowledge item if it asks about a state of the world, not the respondent's view or forecast, and one answer is correct by a nameable source; the coding rules and the item-by-item record are in the replication materials. No item offers an explicit DK option. Only \featOpen\% are open-ended. The most common format, at \featSeven\%, is the seven-point scale on which respondents place candidates and parties; scored as ``correct'' when the placement falls on the right side of the midpoint, it is effectively a two-option item. About \featOpinion\% invite an opinion (``do you think,'' ``would you say''), and \featProbe\% instruct face-to-face interviewers to probe DKs for a best guess. An earlier version of this table, built from a spreadsheet with one row per item and survey mode, overstated the probes because some items were entered more than once. It also counted every placement item as carrying a DK-encouraging preamble. The ``haven't you thought much about this?'' preamble in fact attaches to the respondent's self-placement; the candidate and party placements that follow carry an instruction not to probe DKs and offer none. Counting the preamble anyway would raise the share to \featSelfFilter\%.
 
 \begin{table}[htbp]
-\centering
+\centering\TableStyle
 \caption{Design features of the knowledge items in the 2012 and 2016 ANES time series.}
 \label{tab:features}
 \adjustbox{max width=\linewidth}{\input{../tabs/features.tex}}
@@ -82,7 +83,7 @@ The most direct test of hidden knowledge is to ask again. Between 2000 and 2008,
 Our figures differ from those circulated in an earlier version of this paper in ways worth recording. The earlier DK columns counted only respondents who were probed, but interviewers often skipped the probe, so DKs were understated. The 2008 ANES answers were coded with keyword rules that credited ``Supreme Court justice'' as correct for John Roberts; we use the ANES's own codes and the same strict standard as in 2000 and 2004 \citep{krosnick2008}. Two NAES 2004 answer keys omitted candidates who held the keyed position, and one NAES 2008 item cannot be scored from the data we have. The 2000 ANES probe was meant to go to a random half of respondents, but a randomization failure put nearly everyone interviewed before November 16 on the unprobed form, so the 2000 comparison is within the probed form only.
 
 \begin{table}[htbp]
-\centering
+\centering\TableStyle
 \caption{Repeating the question after a don't-know: ANES and NAES, 2000--2008.}
 \label{tab:public}
 \adjustbox{max width=\linewidth}{\input{../tabs/public_probes.tex}}
@@ -96,7 +97,7 @@ In our 2010 surveys, respondents who left the open-ended question about Angela M
 In 2010, the guessing-corrected gain ranges from \probeGainMin{} to \probeGainMax{} percentage points of the whole sample. It is largest for the photo version of the Merkel question, where many respondents had failed to recognize her. It is larger in 2017, \probeMturkMin{} to \probeMturkMax{} points. But the 2017 design differs in ways that inflate the gain: everyone in the multiple-choice arm saw the menu, including those who had given a partial or wrong answer; the menu followed the open-ended question within minutes, inviting respondents to reconsider; and online, unsupervised respondents could look the answers up. Recognizing the right office in a lineup after being asked about it moments before is some evidence of knowledge, but weaker evidence than naming it.
 
 \begin{table}[htbp]
-\centering
+\centering\TableStyle
 \caption{Multiple-choice follow-ups to open-ended identification questions.}
 \label{tab:probes}
 \adjustbox{max width=\linewidth}{\input{../tabs/probes.tex}}
@@ -110,7 +111,7 @@ In 2010, the guessing-corrected gain ranges from \probeGainMin{} to \probeGainMa
 A second test compares the same question asked open-ended and as multiple choice. Someone who knows the answer but cannot retrieve it should recognize it in a list. In the 2010 surveys, respondents were randomly asked either open-ended or multiple-choice versions of two general-knowledge questions: which country suffered the most casualties in World War II (the Soviet Union, of five listed countries) and the most common cause of death among American women (heart disease, of four causes). Table~\ref{tab:forms} shows the results. Pooling the two items, the multiple-choice versions produced \formAlumni{} (standard error \formAlumniSe) more percentage points of correct answers among alumni and \formStaff{} (\formStaffSe) among staff, neither distinguishable from zero. Correcting for guessing erases even that: \formCorrAlumni{} and \formCorrStaff{} points. Open-ended answers that named a hedge including the right answer (``Russia or Germany'') were counted correct, which if anything favors the open-ended version.
 
 \begin{table}[htbp]
-\centering
+\centering\TableStyle
 \caption{Correct answers to open-ended and multiple-choice versions of two questions.}
 \label{tab:forms}
 \adjustbox{max width=\linewidth}{\input{../tabs/open_closed.tex}}
@@ -128,7 +129,7 @@ In the 2010 surveys, respondents were randomly given one of two introductions to
 Table~\ref{tab:dk} shows that DKs were rare under either introduction, which left little room for discouragement to work. Pooling the three items, discouraging DKs lowered them by \dkDkAlumni{} points among alumni and \dkDkStaff{} among staff and changed the share correct by \dkCorrectAlumni{} (\dkCorrectAlumniSe) and \dkCorrectStaff{} (\dkCorrectStaffSe) points. Only for Reagan among alumni did discouragement raise the share correct appreciably.
 
 \begin{table}[htbp]
-\centering
+\centering\TableStyle
 \caption{DK-encouraging and DK-discouraging introductions to the deficit questions.}
 \label{tab:dk}
 \adjustbox{max width=\linewidth}{\input{../tabs/dk.tex}}
@@ -151,7 +152,7 @@ We randomly assigned respondents to multiple-choice items or to confidence ratin
 \end{figure}
 
 \begin{table}[htbp]
-\centering
+\centering\TableStyle
 \caption{Knowledge by multiple choice and by confidence rating.}
 \label{tab:formats}
 \adjustbox{max width=\linewidth}{\input{../tabs/formats.tex}}
@@ -163,7 +164,7 @@ We randomly assigned respondents to multiple-choice items or to confidence ratin
 What lies behind correct multiple-choice answers? In the 2017 survey, a random two-thirds of respondents were asked, after several multiple-choice items, what made them choose their answer, from a list: they had read, seen, or heard it; it made sense in view of other things they knew; they took a shot; it felt good to think it; they asked someone; or they looked it up. Table~\ref{tab:reasons} shows the reasons given for correct and incorrect answers. Where the fact is widely reported---the travel ban---\heardBan\% of those answering correctly said they had read or heard it. Where it is obscure---that the Affordable Care Act limits increases in payments to Medicare providers---only \heardAca\% did; \inferAca\% said they inferred the answer and \guessAca\% that they guessed. Self-reports understate guessing, which respondents have reason to be shy about, and cheating, which they have more reason still to hide; only \lookedBush\% of those answering the Bush deficit question correctly admitted to asking someone or looking it up. Even taken at face value, a sizable share of correct answers to less-publicized facts come from inference or luck. Incorrect answers, notably, are also mostly attributed to something heard: \heardBushWrong\% of those who said the deficit did not rise under Bush said so.
 
 \begin{table}[htbp]
-\centering
+\centering\TableStyle
 \caption{Reasons given for multiple-choice answers, 2017 MTurk survey.}
 \label{tab:reasons}
 \adjustbox{max width=\linewidth}{\input{../tabs/reasons.tex}}
@@ -188,7 +189,7 @@ The contrast with \citet{prior2014} probably lies in format. His visual items of
 \end{figure}
 
 \begin{table}[htbp]
-\centering
+\centering\TableStyle
 \caption{Identifying public figures by name and by photo.}
 \label{tab:cue}
 \adjustbox{max width=\linewidth}{\input{../tabs/cue.tex}}

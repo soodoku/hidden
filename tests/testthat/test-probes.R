@@ -1,6 +1,7 @@
 root <- normalizePath(file.path(testthat::test_path(), "..", ".."))
 old_wd <- setwd(root)
 withr::defer(setwd(old_wd), testthat::teardown_env())
+source(file.path(root, "scripts", "00_config.R"), local = TRUE)
 source(file.path("R", "probes.R"), local = TRUE)
 
 have_naes <- file.exists(file.path("data", "raw", "naes2004_tax_probe.csv"))
