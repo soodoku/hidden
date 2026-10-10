@@ -24,7 +24,9 @@ test: analysis
 check: paper lint test
 
 ci-docker:
-	docker run --rm -v "$(CURDIR):/project" -w /project rocker/verse:4.6.0 make restore check
+	docker run --rm -v "$(CURDIR):/project" -w /project \
+		-e RENV_CONFIG_REPOS_OVERRIDE=https://packagemanager.posit.co/cran/latest \
+		rocker/verse:4.6.0 make restore check
 
 clean:
 	cd ms && latexmk -C main.tex
