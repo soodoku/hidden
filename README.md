@@ -1,24 +1,53 @@
-## Mis-measuring Political Knowledge? Do People Know More—or Even Less—about Politics than Commonly Thought?
+# Mis-measuring Political Knowledge? Do People Know More—or Even Less—about Politics than Commonly Thought?
 
 Robert C. Luskin, Gaurav Sood, and Daniel Weitzel
 
-Revisionist studies argue that surveys understate what the public knows about
-politics: don't-know answers hide knowledge, open-ended coding misses partial
-knowledge, and text questions miss what people recognize by sight. The paper
-weighs those claims against the biases that run the other way (guessing,
-inference, looking answers up, easy items, knowledgeable samples). It uses
-randomized experiments in three online surveys and a recount of ANES and NAES
-items and don't-know probes. Hidden knowledge turns out to be scarce:
+[Paper](ms/main.pdf) · [Data](data/README.md)
 
-- asking people to identify officials from photos lowers correct answers;
-- menus and probes add little beyond what guessing produces;
-- asking how sure people are finds much less knowledge than multiple choice.
+## Question and motivation
 
-<p align="center">
-  <img width="80%" src="figs/cue.png">
-</p>
+Do conventional surveys miss political knowledge, or do they count guessing as
+knowledge? Claims of hidden knowledge point to don't-know answers, incomplete
+open-ended responses, and facts people recognize visually. But correct answers
+can also come from guesses, inference, or looking information up. Weighing both
+possibilities matters for judging how informed the public is.
 
-### Repository
+## Data and research design
+
+Randomized experiments in three online surveys of university alumni, university
+staff, and Mechanical Turk workers compare question formats, photos and names,
+and confidence measures. A separate recount examines knowledge items and
+follow-up probes in the American National Election Studies (ANES) and National
+Annenberg Election Survey (NAES). The experiments estimate format effects in
+their samples; the item recount describes survey practice.
+
+## Key findings
+
+The experiments reveal little hidden knowledge. Asking people to identify
+officials from photos lowers correct answers. Menus and follow-up probes add
+little beyond what guessing produces. Requiring confidence in the correct
+answer finds much less knowledge than multiple choice.
+
+![Effects of identifying officials by photograph rather than name](figs/cue.png)
+
+The figure compares photo and name versions of identification questions.
+Intervals show uncertainty in the estimated differences; negative effects mean
+fewer correct answers with photographs. See the paper for strict and lenient
+coding rules and the other format comparisons.
+
+## Reproduce
+
+```
+make restore
+make check
+```
+
+The manuscript needs XeLaTeX and latexmk. Every number in the text comes from
+`tabs/macros.tex`, which `scripts/04_tables.R` writes from the analysis output.
+
+`make restore` installs the package versions in `renv.lock`. `make check` rebuilds the analysis and manuscript, lints the R code, and runs the tests. Use R 4.6. `make ci-docker` runs the checks in the project's standard Rocker image.
+
+## Files and pipeline
 
 | Path | Contents |
 |---|---|
@@ -36,19 +65,7 @@ items and don't-know probes. Hidden knowledge turns out to be scarce:
 | `ms/` | `main.tex`, `references.bib`, and the compiled `main.pdf` |
 | `tests/testthat/` | Coding-rule unit tests, reproductions of earlier numbers where the codings should agree, and privacy checks |
 
-### Running it
-
-```
-make restore
-make check
-```
-
-The manuscript needs XeLaTeX and latexmk. Every number in the text comes from
-`tabs/macros.tex`, which `scripts/04_tables.R` writes from the analysis output.
-
-`make restore` installs the package versions in `renv.lock`. `make check` rebuilds the analysis and manuscript, lints the R code, and runs the tests. Use R 4.6. `make ci-docker` runs the checks in the project's standard Rocker image.
-
-### Script organization
+### Execution stages
 
 `make analysis` runs `scripts/99_run_all.R`. It loads the configuration and the named reusable modules in `R/`, then executes stages 01–04 in separate environments. Stages pass results through files.
 
